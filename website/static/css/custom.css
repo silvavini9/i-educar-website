@@ -1,20 +1,40 @@
 /* your custom css */
-@import url('https://fonts.googleapis.com/css?family=Hind:300,400,700|Muli:400,700');
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400,700|Muli:300,400,700|Open+Sans:400,600');
 
 
 .navPusher {
   padding-top: 80px;
 }
 
+.mainHomeContainer {
+  background-color: black;
+
+}
+
 .homeContainer {
   height: 620px;
-  background-image: url('../img/FB_cover.png');
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: left;
 }
-.homeContainer .inner {
-  display: none;
+
+.projectLogo img {
+  max-width: 332px;
+  max-height: 332px;
+  border-radius: 56px;
+  box-shadow: 0 9px 9px 0 rgba(0, 0, 0, 0.1);
 }
+
+.projectLogo {
+  margin-bottom: 50px;
+}
+
+.contrastBackground {
+  background-color: #8100f7;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 
 .textEmail {
   display: flex;
@@ -51,11 +71,32 @@
   letter-spacing: -0.5px;
   color: #ffffff;
   margin: 0px;
+  max-width: 55%;
+  word-spacing: 5px;
+}
+
+
+.heroContainer {
+  background-size: cover;
+  background-image: url(../img/imagem_principal_home.png) ;
+  height: 620px;
+}
+
+.projectLogo {
+  display: flex;
+  align-items: center;
+}
+
+.projectLogo h1 {
+  margin: 0px;
+  margin-left: 70px ;
+  font-size: 90px;
+  color: white;
 }
 
 .projectTitle small {
   font-family: $descriptionFont;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 300;
   font-style: normal;
   font-stretch: normal;
@@ -170,6 +211,79 @@
     font-size: 14px;
   }
 }
+
+@media only screen and (max-width: 970px) {
+  .heroContainer {
+    background-size: cover;
+    background-image: url(../img/cover.png) ;
+  }
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  }
+  .projectLogo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    margin-bottom: 15px;
+  }
+  .projectLogo h1 {
+      margin: 0px;
+  }
+  .projectTitle {
+    display: flex;
+    max-width: none;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 735px){
+    .projectLogo img {
+      margin-top: 2%;
+    }
+
+}
+
+@media only screen and (max-width: 510px){
+  .projectLogo img {
+    max-width: 207px;
+    max-height: 207px;
+    margin-top: 7%;
+    border-radius: 55px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2)
+  }
+  .projectLogo h1 {
+    margin: 0px;
+    font-size: 56px;
+  }
+  .projectLogo {
+    margin-bottom: 40px;
+  }
+  .projectTitle small {
+    font-size: 28px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+    .projectLogo img {
+      width: 166px;
+      height: 166px;
+      margin-top: 10%;
+      border-radius: 40px;
+      box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+    }
+    .projectLogo h1 {
+      font-size: 36px;
+    }
+    .projectTitle small{
+      font-size: 24px;
+    }
+}
+
 
 @media only screen and (max-device-width: 776px) {
   .homeContainer {

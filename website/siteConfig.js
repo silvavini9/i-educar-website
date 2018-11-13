@@ -69,7 +69,7 @@ const statistics = {
 
 const siteConfig = {
   title: 'i-Educar' /* title for your website */,
-  tagline: 'O i-Educar é um software livre e público totalmente on-line que torna mais fácil e prática a gestão dos processos das escolas, matrículas e dados de alunos, apoiando os profissionais da rede de ensino e gestores.',
+  tagline: ' é um software livre que descomplica e torna mais eficaz a gestão dos processos escolares, matrículas e dados de alunos.',
   disableHeaderTitle: true,
   url: 'http://ieducar.org' /* your website url */,
   baseUrl: '/' /* base url for your project */,

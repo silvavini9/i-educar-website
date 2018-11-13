@@ -57,24 +57,35 @@ Button.defaultProps = {
   target: '_self',
 };
 
+
 const SplashContainer = props => (
-  <div className="homeContainer">
+  <Container
+    padding={['bottom', 'top']}
+    id={props.id}
+    background={props.background}
+    className={props.class}
+    >
     {props.children}
-  </div>
+  </Container>
 );
 
 const Logo = props => (
   <div className="projectLogo">
     <img src={props.img_src} />
+    <h1>{siteConfig.title}</h1>
   </div>
 );
 
-const ProjectTitle = props => (
-  <h2 className="projectTitle">
-    {siteConfig.title}
-    <small>{siteConfig.tagline}</small>
-  </h2>
-);
+class ProjectTitle extends React.Component {
+  render() {
+    let title = <span className="contrastBackground">i-Educar</span>;
+    return (
+      <h2 className="projectTitle">
+        <small>O {title} {siteConfig.tagline}</small>
+      </h2>
+    )
+  }
+}
 
 const PromoSection = props => (
   <div className="section promoSection">
@@ -88,11 +99,9 @@ class HomeSplash extends React.Component {
   render() {
     let language = this.props.language || '';
     return (
-      <SplashContainer>
-        {/* <Logo img_src={imgUrl('i-educar-logo.png')} /> */}
-        <div className="inner">
-          <img src={imgUrl('FB_cover_logo.png')} alt="Imagem mostrando a logo do i-Educar com uma tagline: O i-Educar é um software livre que descomplica e torna mais eficaz a gestão dos processos escolares, matrículas e dados de alunos."/>
-        </div>
+      <SplashContainer class="heroContainer" background="dark" layout="TwoColumn"  >
+        <Logo img_src={imgUrl('logo_borda_arredondada.svg')} />
+        <ProjectTitle />
       </SplashContainer>
     );
   }
