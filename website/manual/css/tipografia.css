@@ -1,0 +1,77 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+:root {
+  --font-titulo-tipografia: 40px;
+}
+
+.fontsDiv {
+  display: flex;
+  width: 859px;
+  height: 466px;
+  margin-top: 37px;
+  background: #2197ff;
+  padding: 10px 5px 39px 25px;
+}
+
+.centralFontDiv {
+  margin-top: 53px;
+  margin-right: 156px;
+}
+
+.centralFontDiv:last-child{
+  margin-right: 0px;
+}
+
+.fontTitle {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: var(--font-titulo-tipografia);
+}
+
+.regularBoldDiv {
+  display: flex;
+}
+
+.regularBoldDiv p {
+  margin-right: 44px;
+  font-size: 30px;
+}
+
+.regularBoldDiv p:last-child {
+  margin-right: 0px;
+}
+
+.fontFamily {
+  font-size: 12px;
+}
+
+.fontsDiv p {
+    color: #ffffff;
+}
+
+.regularTitle {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.boldTitle {
+  margin-top: 34px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.regularDiv p{
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.boldDiv p {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.4;
+}

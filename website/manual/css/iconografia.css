@@ -1,0 +1,25 @@
+.boxShadow img {
+  max-width: 125px;
+  max-height: 125px;
+  margin: 0;
+  box-shadow: -9px -9px 40px rgba(175,175,239,0.20);
+  border-radius: 29px;
+}
+
+.boxForShadow {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.logotipoForIcon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.boxShadow {
+  box-shadow: 9px 9px 40px rgba(175,175,239,0.20);
+  border-radius: 30px;
+}
