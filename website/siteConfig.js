@@ -96,6 +96,8 @@ const siteConfig = {
     {href : "manual", label: 'Manual de identidade' },
   ],
 
+  separateCss: ['static/manual/css'],
+
   // If you have users set above, you add it here:
   users,
   statistics,
@@ -162,7 +164,7 @@ const siteConfig = {
     'js/loadFonts.js'
   ],
   mapsApiKey: 'AIzaSyCIThOGkNPz5Kxk1CH5on42LzEMpVLGhho',
-  separateCss: 'static/manual/css',
+  
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
