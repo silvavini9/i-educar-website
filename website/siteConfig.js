@@ -92,6 +92,8 @@ const siteConfig = {
     {blog: true, label: 'Blog'},
     {href : "https://forum.ieducar.org", label: 'Fórum' },
     {page: "docs", label: 'Documentação'},
+    {href : "https://github.com/portabilis/i-educar", label: 'GitHub' },
+    {href : "manual", label: 'Manual de identidade' },
   ],
 
   // If you have users set above, you add it here:
