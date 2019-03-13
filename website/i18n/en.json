@@ -3,11 +3,19 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": " é um software livre que descomplica e torna mais eficaz a gestão dos processos escolares, matrículas e dados de alunos.",
+    "tagline": "O i-Educar é um software livre e público totalmente on-line que torna mais fácil e prática a gestão dos processos das escolas, matrículas e dados de alunos, apoiando os profissionais da rede de ensino e gestores.",
     "docs": {
+      "admin-importar-censo": {
+        "title": "Como importar dados do Censo Escolar para carga inicial no i-Educar",
+        "sidebar_label": "Importar Censo Escolar"
+      },
       "admin-intro": {
         "title": "Documentação para Administradores",
-        "sidebar_label": "Sobre o i-Educar"
+        "sidebar_label": "Home"
+      },
+      "admin-setup-inicial": {
+        "title": "Setup inicial",
+        "sidebar_label": "Setup inicial"
       },
       "dev-comecando-contribuir-docs": {
         "title": "Começando a contribuir com a documentação"
@@ -18,7 +26,7 @@
       },
       "dev-intro": {
         "title": "Documentação para Desenvolvedores",
-        "sidebar_label": "Sobre o i-Educar"
+        "sidebar_label": "Home"
       },
       "dev-padroes-docs": {
         "title": "Padrões de documentação"
@@ -40,7 +48,7 @@
       },
       "user-intro": {
         "title": "Documentação para Usuários",
-        "sidebar_label": "Sobre o i-Educar"
+        "sidebar_label": "Home"
       },
       "user-modulo-enderecamento-pessoas": {
         "title": "Módulo Endereçamento e Pessoas"
@@ -57,13 +65,12 @@
       "Quem Usa?": "Quem Usa?",
       "Blog": "Blog",
       "Fórum": "Fórum",
-      "Documentação": "Documentação",
-      "GitHub": "GitHub",
-      "Manual de identidade": "Manual de identidade"
+      "Documentação": "Documentação"
     },
     "categories": {
-      "i-Educar": "i-Educar",
-      "Documentação": "Documentação"
+      "Documentação para Administradores": "Documentação para Administradores",
+      "Documentação para Desenvolvedores": "Documentação para Desenvolvedores",
+      "Documentação para Usuários": "Documentação para Usuários"
     }
   },
   "pages-strings": {
