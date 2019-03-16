@@ -23,7 +23,14 @@
       "user-servidores-e-professores",
       "user-configuracoes",
       "user-ano-letivo-escolar-matriculas",
-      "user-regras-avaliacao-notas"
+      "user-regras-avaliacao-notas",
+      "pag-capa",
+      "apresentacao",
+      "user-conhecendo_sistema",
+      "user-quem_podera_ajudar",
+      "user-por_onde_comecar",
+      "user-como_acessar_i-educar",
+      "user-como_configurar_conta_de_acesso"
     ]
   }
 }
