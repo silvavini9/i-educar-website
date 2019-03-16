@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "O i-Educar é um software livre e público totalmente on-line que torna mais fácil e prática a gestão dos processos das escolas, matrículas e dados de alunos, apoiando os profissionais da rede de ensino e gestores.",
+    "tagline": " é um software livre que descomplica e torna mais eficaz a gestão dos processos escolares, matrículas e dados de alunos.",
     "docs": {
       "admin-importar-censo": {
         "title": "Como importar dados do Censo Escolar para carga inicial no i-Educar",
@@ -40,6 +40,39 @@
       "user-cadastros-sistema-educacional": {
         "title": "Cadastros do Sistema Educacional"
       },
+      "user-como-cadastrar-beneficios-de-aluno": {
+        "title": "Como Cadastrar Benefícios de Aluno?"
+      },
+      "user-como-cadastrar-componentes-curriculares": {
+        "title": "Como Cadastrar Componentes Curriculares?"
+      },
+      "user-como-cadastrar-funcoes": {
+        "title": "Como Cadastrar Funções?"
+      },
+      "user-como-cadastrar-pessoas-fisicas-ou-juridicas": {
+        "title": "Como Cadastrar Pessoas Físicas ou Jurídicas?"
+      },
+      "user-como-cadastrar-projetos-de-aluno": {
+        "title": "Como Cadastrar Projetos de Aluno?"
+      },
+      "user-como-cadastrar-servidores": {
+        "title": "Como Cadastrar Servidores?"
+      },
+      "user-como-cadastrar-tipos-de-componentes-curriculares": {
+        "title": "Como Cadastrar Tipos de Componentes Curriculares?"
+      },
+      "user-como-cadastrar-tipos-de-pessoas": {
+        "title": "Como Cadastrar Tipos de Pessoas?"
+      },
+      "user-como-cadastrar-um-aluno": {
+        "title": "Como Cadastrar um Aluno?"
+      },
+      "user-como-cadastrar-uma-escola": {
+        "title": "Como Cadastrar uma Escola?"
+      },
+      "user-como-definir-ano-letivo": {
+        "title": "Como Definir Ano Letivo?"
+      },
       "user-configuracoes": {
         "title": "Configurações"
       },
@@ -65,7 +98,9 @@
       "Quem Usa?": "Quem Usa?",
       "Blog": "Blog",
       "Fórum": "Fórum",
-      "Documentação": "Documentação"
+      "Documentação": "Documentação",
+      "GitHub": "GitHub",
+      "Manual de identidade": "Manual de identidade"
     },
     "categories": {
       "Documentação para Administradores": "Documentação para Administradores",
