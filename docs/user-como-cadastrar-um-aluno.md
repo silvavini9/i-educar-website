@@ -11,7 +11,9 @@ Provê um cadastro rápido, no qual poucos dados de cadastro são solicitados. C
 
 Após o cadastro de pessoa, finalize o cadastro do aluno com o restante dos dados.
 
-Aqui será inserido a animação 22.
+
+![Módulo Escola >> Cadastros >> Alunos >> Novo](../img/user-docs/cadastrar_pessoa_via_aluno.gif)
+
 **Animação 22 - Módulo Escola >> Cadastros >> Alunos >> Novo.**
 
 ## 2. Cadastro completo de alunos 
@@ -23,7 +25,9 @@ Verifique se a **pessoa já está cadastrada no sistema**. Quando se trata de um
 
 Agora, digite o nome e o CPF da pessoa e acesse o botão **Buscar**. Caso o cadastro for encontrado no sistema, loga abaixo dos campos de busca você poderá acessar os dados da **pessoa física** buscada.
 
-Aqui será inserido a animação 23.
+
+![Módulo Pessoas >> Cadastros >> Pessoas Física](../img/user-docs/buscar_pessoa_via_pessoa_fisica.gif)
+
 **Animação 23 - Módulo Pessoas >> Cadastros >> Pessoas Física.**
 
 ### 2.2. Cadastro de um aluno como pessoa física
@@ -36,7 +40,8 @@ Acesse essa opção para que seja redirecionado para o cadastramento de uma nova
 
 Durante o preenchimento dos dados do novo aluno, atente-se para a necessidade do preenchimento dos dados de parentesco (**Pessoa Pai e Pessoa Mãe**). Em ambos campos de parentesco, você notará a presença de um link de acesso denominado **Cadastrar pessoa**. Apesar destes campos não serem obrigatórios para o cadastramento de uma nova pessoa, é importante preenchê-los no caso de pessoas físicas que são alunos. 
 
-Aqui será inserido a animação 24.
+[Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo](../img/user-docs/cadastrar_pessoa_fisica.gif)
+
 **Animação 24 - Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo.**
 
 Após o preenchimento dos dados necessários, você já tem o aluno cadastrado como **pessoa física**. Agora, é hora de vincular esta pessoa como **aluno** no sistema.
