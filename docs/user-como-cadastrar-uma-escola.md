@@ -5,14 +5,14 @@ title: Como Cadastrar uma Escola?
 
 ## Pré-requisitos: 
 
-1. Cadastrar Rede de Ensino;
-2. Cadastrar Cursos.
+1. **Cadastrar Rede de Ensino**;
+2. **Cadastrar Cursos**.
 
 Antes do início do uso, no ano letivo, do sistema i-Educar toda escola que for utilizá-lo deve ser cadastrada, sendo assim, antes de iniciar as matrículas, cadastros de alunos e outros, é necessário que se cadastre a Escola.
 
 Para realizar o cadastramento de uma escola, (Animação 15) acesse o **Módulo Escola >> Cadastros >> Escolas.**
 
-Aqui será inserida a animação 15.
+![Módulo Escola >> Cadastros >> Escolas](./img)
 
 
 **Animação 15 - Módulo Escola >> Cadastros >> Escolas.**
