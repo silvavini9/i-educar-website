@@ -27,3 +27,24 @@ p {
     font-weight: 600;
     font-size: 14px;
 }
+
+.img {
+    display: inline;
+    width: 32px;
+    height: 32px;
+}
+
+.containerImg {
+    display: flex;
+    justify-content: center;
+}
+
+.containerImg img {
+    margin-right: 50px;
+}   
+
+.img_final {
+    display: inline;
+    width: 38px;
+    height: 32px;
+}

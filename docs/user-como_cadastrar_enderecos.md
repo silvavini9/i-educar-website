@@ -9,13 +9,13 @@ title: 6. Como Cadastrar Endereços?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de dados de endereçamento (Animação 5), acesse o **Módulo Endereçamento >> Cadastros** e selecione a opção de cadastramento desejada. 
 
-![Clique em endereçamento e depois mostrar os tipos de cadastro]()
+![Clique em endereçamento e depois mostrar os tipos de cadastro](/img/treinamento_gifs/cadastrar_endereçamentos.gif)
 
 <p class="centerText">Animação 5 - Módulo Endereçamento >> Cadastros</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para acessar as ferramentas do endereçamento (Animação 6), acesse o Módulo Endereçamento >> Ferramentas e selecione a opção desejada.
 
-![Clique em endereçamento e depois mostrar os tipos de ferramentas]()
+![Clique em endereçamento e depois mostrar os tipos de ferramentas](/img/treinamento_gifs/ferramentas_enderecamento.gif)
 
 <p class="centerText">Animação 6 - Módulo Endereçamento >> Ferramentas</p>
 

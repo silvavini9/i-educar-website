@@ -11,7 +11,7 @@ title: 9. Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de etapas, (Animação 12) acesse o **Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de etapas >> Novo.**
 
-![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de etapas e depois novo]()
+![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de etapas e depois novo](/img/treinamento_gifs/cadastrar_tipo_de_etapas.gif)
 
 <p class="centerText">Animação 12 - Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de etapas >> Novo.</p>
 
@@ -23,7 +23,7 @@ title: 9. Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma rede de ensino (Animação 13), acesse o **Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de localização >> Novo.**
 
-![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de localização e depois novo]()
+![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de localização e depois novo](/img/treinamento_gifs/cadastrar_tipos_de_localizacao.gif)
 
 <p class="centerText">Animação 13 - Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de localização.</p>
 
@@ -33,6 +33,6 @@ title: 9. Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma rede de ensino (Animação 14), acesse o ***Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de Rede de Ensino >> Novo.***
 
-![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de rede de ensino e depois novo]()
+![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de rede de ensino e depois novo](/img/treinamento_gifs/cadastrar_tipos_de_rede_de_ensino.gif)
 
 <p class="centerText">Animação 14 - Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de Rede de Ensino >> Novo.</p>
