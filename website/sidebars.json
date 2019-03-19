@@ -25,7 +25,9 @@
       "user-ano-letivo-escolar-matriculas",
       "user-regras-avaliacao-notas",
 
-      "user-vincular-professor-turma"
+      "user-vincular-professor-turma",
+      "user-criar-quadro-horarios-turma",
+      "user-como-realizar-enturmacoes"
     ]
   }
 }
