@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "O i-Educar é um software livre e público totalmente on-line que torna mais fácil e prática a gestão dos processos das escolas, matrículas e dados de alunos, apoiando os profissionais da rede de ensino e gestores.",
+    "tagline": " é um software livre que descomplica e torna mais eficaz a gestão dos processos escolares, matrículas e dados de alunos.",
     "docs": {
       "admin-importar-censo": {
         "title": "Como importar dados do Censo Escolar para carga inicial no i-Educar",
@@ -16,6 +16,9 @@
       "admin-setup-inicial": {
         "title": "Setup inicial",
         "sidebar_label": "Setup inicial"
+      },
+      "como-configurar-anos-escolares": {
+        "title": "Como Configurar Anos Escolares"
       },
       "dev-comecando-contribuir-docs": {
         "title": "Começando a contribuir com a documentação"
@@ -65,7 +68,9 @@
       "Quem Usa?": "Quem Usa?",
       "Blog": "Blog",
       "Fórum": "Fórum",
-      "Documentação": "Documentação"
+      "Documentação": "Documentação",
+      "GitHub": "GitHub",
+      "Manual de identidade": "Manual de identidade"
     },
     "categories": {
       "Documentação para Administradores": "Documentação para Administradores",
