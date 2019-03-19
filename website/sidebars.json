@@ -30,7 +30,11 @@
       "user-quem_podera_ajudar",
       "user-por_onde_comecar",
       "user-como_acessar_i-educar",
-      "user-como_configurar_conta_de_acesso"
+      "user-como_configurar_conta_de_acesso",
+      "user-como_cadastrar_enderecos",
+      "user-como_cadastrar_tipo_de_curso",
+      "user-como_cadastrar_um_curso",
+      "user-como_cadastrar_tipos_de_escola"
     ]
   }
 }

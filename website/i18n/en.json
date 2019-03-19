@@ -46,6 +46,18 @@
       "user-como_acessar_i-educar": {
         "title": "4. Como acessar o i-Educar?"
       },
+      "user-como_cadastrar_enderecos": {
+        "title": "6. Como Cadastrar Endereços?"
+      },
+      "user-como_cadastrar_tipo_de_curso": {
+        "title": "7. Como Cadastrar um Tipo de Curso?"
+      },
+      "user-como_cadastrar_tipos_de_escola": {
+        "title": "9. Como Cadastrar Tipos de Escola?"
+      },
+      "user-como_cadastrar_um_curso": {
+        "title": "8. Como Cadastrar um Curso?"
+      },
       "user-como_configurar_conta_de_acesso": {
         "title": "5. Como configurar sua conta de acesso?"
       },

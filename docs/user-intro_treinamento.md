@@ -5,7 +5,7 @@ title: Bem-Vindo!
 
 ![](/img/capa_manual.png)
 
-<div class="centerText">
+<div class="blockCenterText">
 
 **TREINAMENTO PROMOVIDO PELO IFMS**
 

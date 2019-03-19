@@ -19,3 +19,20 @@ title: 5. Como configurar sua conta de acesso?
 
 <p class="centerText">Animação 3 - Agenda.</p>
 
+**Calendário**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No calendário (Imagem 1) são exibidos todos os compromissos cadastrados na agenda. Observe:
+
+![Mostra uma foto da página do calendário]()
+
+<p class="centerText">Imagem 1 - Calendário</p>
+
+**Meus Dados**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa opção é possível configurar os dados de usuário (Animação 4), incluindo matrícula e senha, basta inserir os dados e salvar.
+   
+![]()
+
+<p class="centerText">Animação 4 - Acesso aos meus dados.</p>
+
+***Importante: Os dados de cada usuário são pessoais e não devem ser compartilhados sob nenhuma hipótese.***

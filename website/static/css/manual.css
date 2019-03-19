@@ -10,6 +10,12 @@ p {
     margin-bottom: 5%;
 }
 
+.blockCenterText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .border {
     border: solid 1px black;
     padding: 2%;    
