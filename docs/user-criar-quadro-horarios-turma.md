@@ -3,8 +3,6 @@ id: user-criar-quadro-horarios-turma
 title: Como Criar um Quadro de Horários da Turma?
 ---
 
-# Como Criar um Quadro de Horários da Turma?
-
 **Pré-requisitos:**
 
 **1. Cadastrar uma Instituição;**

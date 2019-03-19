@@ -3,7 +3,6 @@ id : user-como-realizar-enturmacoes
 title: Como Realizar Enturmações?
 ---
 
-# Como Realizar Enturmações?
 
 **Pré-requisitos:**
 
