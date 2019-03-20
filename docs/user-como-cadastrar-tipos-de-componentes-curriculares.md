@@ -20,14 +20,6 @@ Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Esco
 
 ![Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo](../img/user-docs/cadastrar_area_conhecimento.gif)
 
-GIF análogo mas não identico.
-
-**!!!!!!!!!Alert!!!!!!!!!** 
-**!!!!!!!!!Alert!!!!!!!!!**
-**!!!!!!!!!Alert!!!!!!!!!**
-**!!!!!!!!!Alert!!!!!!!!!**
-**!!!!!!!!!Alert!!!!!!!!!**
-
 <div class="divNotaCentralizadaGif"> 
 
 **Animação 17 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Área do conhecimento >> Novo.**

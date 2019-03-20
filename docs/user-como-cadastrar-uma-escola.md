@@ -3,10 +3,9 @@ id: user-como-cadastrar-uma-escola
 title: 10. Como Cadastrar uma Escola?
 ---
 
-## Pré-requisitos: 
-
-1. **Cadastrar Rede de Ensino**;
-2. **Cadastrar Cursos**.
+>## Pré-requisitos: 
+>* **Cadastrar Rede de Ensino**;
+>* **Cadastrar Cursos**.
 
 <div class="textoJustificado">
 
@@ -14,7 +13,7 @@ title: 10. Como Cadastrar uma Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma escola, (Animação 15) acesse o **Módulo Escola >> Cadastros >> Escolas.**
 
-<div class="textoJustificado">
+</div>
 
 ![Módulo Escola >> Cadastros >> Escolas](../img/user-docs/cadastros_escola.gif)
 

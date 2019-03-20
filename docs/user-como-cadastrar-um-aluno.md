@@ -1,6 +1,6 @@
 ---
 id: user-como-cadastrar-um-aluno
-title: 15. Como Cadastrar um Aluno?
+title: 14. Como Cadastrar um Aluno?
 ---
 
 <div class="textoJustificado">

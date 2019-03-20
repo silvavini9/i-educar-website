@@ -3,9 +3,11 @@ id: user-como-cadastrar-componentes-curriculares
 title: 12. Como Cadastrar Componentes Curriculares?
 ---
 
-## Pré-requisitos:
-1. **Cadastrar uma Instituição**;
-2. **Cadastrar uma Área do conhecimento**.
+
+>## Pré-requisitos:
+>* **Cadastrar uma Instituição**;
+>* **Cadastrar uma Área do conhecimento**.
+
 
 <div class="textoJustificado">
 

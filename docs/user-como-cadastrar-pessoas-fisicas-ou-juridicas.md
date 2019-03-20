@@ -1,7 +1,20 @@
 ---
 id: user-como-cadastrar-pessoas-fisicas-ou-juridicas
-title: 14   . Como Cadastrar Pessoas Físicas ou Jurídicas?
+title: 13   . Como Cadastrar Pessoas Físicas ou Jurídicas?
 ---
+
+## Como Cadastrar Tipos de Pessoas?
+
+<div class="textoJustificado">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No módulo pessoas é possível cadastrar novos tipos de característica seguindo caminho **Pessoas >> Cadastros >> Tipos >> (cor/raça; deficiência; religião)**, dessa forma pode-se acessar as características de tipos já cadastradas ou cadastrar uma nova, utilizando o botão **“Novo”**.
+
+</div>
+
+![Pessoas >> Cadastros >> Tipos >> (cor/raça; deficiência; religião)](../img/user-docs/cadastrar_tipos.gif)
+
+
+
 
 <div class="textoJustificado">
 
