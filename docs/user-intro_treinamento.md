@@ -3,7 +3,7 @@ id: pag-capa
 title: Bem-Vindo!
 ---
 
-![](/img/capa_manual.png)
+<img alt="Logo do i-Educar" src="/img/capa_manual.png" class="imgCapa"/> 
 
 <div class="blockCenterText">
 
