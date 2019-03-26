@@ -31,7 +31,10 @@
       "user-lancar-notas-faltas",
       "user-rematricula-automatica",
       "user-reservar-vagas",
-      "user-finalizar-ano-letivo"
+      "user-finalizar-ano-letivo",
+      "user-como-emitir-relatorios",
+      "user-gerar-historico-escolar"
+
     ]
   }
 }

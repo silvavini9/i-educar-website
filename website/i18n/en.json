@@ -40,6 +40,9 @@
       "user-cadastros-sistema-educacional": {
         "title": "Cadastros do Sistema Educacional"
       },
+      "user-como-emitir-relatorios": {
+        "title": "Como Emitir Relatórios?"
+      },
       "user-como-realizar-enturmacoes": {
         "title": "Como Realizar Enturmações?"
       },
@@ -55,6 +58,9 @@
       "user-finalizar-ano-letivo": {
         "title": "Como Finalizar um Ano Letivo?"
       },
+      "user-gerar-historico-escolar": {
+        "title": "Como Gerar Históricos Escolares?"
+      },
       "user-intro": {
         "title": "Documentação para Usuários",
         "sidebar_label": "Home"
@@ -68,7 +74,7 @@
       "user-regras-avaliacao-notas": {
         "title": "Regras de Avaliação e Notas"
       },
-      "user-rematricula-automatica.md": {
+      "user-rematricula-automatica": {
         "title": "Como Realizar Rematrícula Automática?"
       },
       "user-reservar-vagas": {
