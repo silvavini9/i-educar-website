@@ -1,6 +1,6 @@
 ---
-id: como-cadastrar-séries na-escola
-title: Como Cadastrar Séries na Escola
+id: como-cadastrar-series-na-escola
+title: Como Cadastrar Séries na Escola?
 ---
 
 

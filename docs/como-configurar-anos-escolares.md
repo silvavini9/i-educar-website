@@ -1,6 +1,6 @@
 ---
 id: como-configurar-anos-escolares
-title: Como Configurar Anos Escolares
+title: Como Configurar Anos Escolares?
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para configurar anos escolares, basta ir no **Módulo Escola >> Cadastros Componente Curricular >> Selecionar um componente >> Clicar em Configurar Anos Escolares.**
 

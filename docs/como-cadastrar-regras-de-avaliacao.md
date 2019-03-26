@@ -1,6 +1,6 @@
 ---
 id: como-cadastrar-regras-de-avaliacao
-title: Como Cadastrar Regras de Avaliação
+title: Como Cadastrar Regras de Avaliação?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As regras de avaliação implicam na forma como o aluno será avaliado no decorrer do curso. Geralmente escolas de ensino fundamental utilizam de média aritmética como regra de avaliação, sendo portanto uma regra de avaliação numérica, baseado nas notas obtidas pelos alunos no decorrer dos bimestres, porém quando se trata de pré-escolas as regras de avaliação são dadas como conceituais.

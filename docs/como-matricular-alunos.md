@@ -1,6 +1,6 @@
 ---
 id: como-matricular-alunos
-title: Como Matricular Alunos
+title: Como Matricular Alunos?
 ---
 
 **Pré-requisitos:**

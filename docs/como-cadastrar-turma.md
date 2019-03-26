@@ -1,6 +1,6 @@
 ---
 id: como-cadastrar-turma
-title: Como Cadastrar Turma
+title: Como Cadastrar Turma?
 ---
 
 **Pré-requisitos:**

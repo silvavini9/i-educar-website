@@ -1,6 +1,6 @@
 ---
-id: como-cadastrar-séries
-title: Como Cadastrar Séries
+id: como-cadastrar-series
+title: Como Cadastrar Séries?
 ---
 
 **Pré-requisitos:**

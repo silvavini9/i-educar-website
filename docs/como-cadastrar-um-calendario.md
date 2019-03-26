@@ -1,6 +1,6 @@
 ---
-id: como-cadastrar-um-calendário
-title: Como Cadastrar um Calendário
+id: como-cadastrar-um-calendario
+title: Como Cadastrar um Calendário?
 ---
 
 **Pré-requisitos:**
