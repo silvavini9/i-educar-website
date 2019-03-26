@@ -8,6 +8,7 @@ title: Como Finalizar um Ano Letivo?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O processo de finalização do ano, implica em algumas etapas de verificação.
 
 &nbsp;&nbsp;&nbsp;Para que o ano letivo possa ser encerrado no i-Educar são necessárias verificações em relação a situação de todos os alunos cadastrados e matriculados na escola. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos seguintes passos :
 
 * **Módulo Escola ;**
