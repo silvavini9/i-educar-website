@@ -43,12 +43,6 @@
       "user-cadastros-sistema-educacional": {
         "title": "Cadastros do Sistema Educacional"
       },
-      "user-como-emitir-relatorios": {
-        "title": "Como Emitir Relatórios?"
-      },
-      "user-como-realizar-enturmacoes": {
-        "title": "Como Realizar Enturmações?"
-      },
       "user-como_acessar_i-educar": {
         "title": "4. Como acessar o i-Educar?"
       },
@@ -93,6 +87,12 @@
       },
       "user-como-definir-ano-letivo": {
         "title": "18. Como Definir Ano Letivo?"
+      },
+      "user-como-emitir-relatorios": {
+        "title": "Como Emitir Relatórios?"
+      },
+      "user-como-realizar-enturmacoes": {
+        "title": "Como Realizar Enturmações?"
       },
       "user-configuracoes": {
         "title": "Configurações"
