@@ -23,7 +23,18 @@
       "user-servidores-e-professores",
       "user-configuracoes",
       "user-ano-letivo-escolar-matriculas",
-      "user-regras-avaliacao-notas"
+      "user-regras-avaliacao-notas",
+
+      "user-vincular-professor-turma",
+      "user-criar-quadro-horarios-turma",
+      "user-como-realizar-enturmacoes",
+      "user-lancar-notas-faltas",
+      "user-rematricula-automatica",
+      "user-reservar-vagas",
+      "user-finalizar-ano-letivo",
+      "user-como-emitir-relatorios",
+      "user-gerar-historico-escolar"
+
     ]
   }
 }
