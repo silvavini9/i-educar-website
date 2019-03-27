@@ -24,6 +24,15 @@
       "user-configuracoes",
       "user-ano-letivo-escolar-matriculas",
       "user-regras-avaliacao-notas",
+      "user-vincular-professor-turma",
+      "user-criar-quadro-horarios-turma",
+      "user-como-realizar-enturmacoes",
+      "user-lancar-notas-faltas",
+      "user-rematricula-automatica",
+      "user-reservar-vagas",
+      "user-finalizar-ano-letivo",
+      "user-como-emitir-relatorios",
+      "user-gerar-historico-escolar",
       "pag-capa",
       "apresentacao",
       "user-conhecendo_sistema",
@@ -34,7 +43,16 @@
       "user-como_cadastrar_enderecos",
       "user-como_cadastrar_tipo_de_curso",
       "user-como_cadastrar_um_curso",
-      "user-como_cadastrar_tipos_de_escola"
+      "user-como_cadastrar_tipos_de_escola",
+      "user-como-cadastrar-uma-escola",
+      "user-como-cadastrar-tipos-de-componentes-curriculares",
+      "user-como-cadastrar-componentes-curriculares",
+      "user-como-cadastrar-pessoas-fisicas-ou-juridicas",
+      "user-como-cadastrar-um-aluno",
+      "user-como-cadastrar-beneficios-projetos-de-aluno",
+      "user-como-cadastrar-funcoes",
+      "user-como-cadastrar-servidores",
+      "user-como-definir-ano-letivo"
     ]
   }
 }

@@ -88,12 +88,12 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {page: 'index', label: 'Home'},
-    {href: 'index.html#quemusa', label: 'Quem Usa?'},
+    {href: '/index.html#quemusa', label: 'Quem Usa?'},
     {blog: true, label: 'Blog'},
     {href : "https://forum.ieducar.org", label: 'Fórum' },
     {page: "docs", label: 'Documentação'},
     {href : "https://github.com/portabilis/i-educar", label: 'GitHub' },
-    {href : "manual", label: 'Manual de identidade' },
+    {href : "/manual", label: 'Manual de identidade' },
   ],
 
   separateCss: ['static/manual/css'],
@@ -161,7 +161,7 @@ const siteConfig = {
     'js/mailchimp.js',
     'js/map.js',
     'js/conversao.js',
-    'js/loadFonts.js'
+    //'js/loadFonts.js'
   ],
   mapsApiKey: 'AIzaSyCIThOGkNPz5Kxk1CH5on42LzEMpVLGhho',
   

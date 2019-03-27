@@ -61,6 +61,39 @@
       "user-como_configurar_conta_de_acesso": {
         "title": "5. Como configurar sua conta de acesso?"
       },
+      "user-como-cadastrar-beneficios-projetos-de-aluno": {
+        "title": "15. Como Cadastrar Benefícios / Projetos de Aluno?"
+      },
+      "user-como-cadastrar-componentes-curriculares": {
+        "title": "12. Como Cadastrar Componentes Curriculares?"
+      },
+      "user-como-cadastrar-funcoes": {
+        "title": "16. Como Cadastrar Funções?"
+      },
+      "user-como-cadastrar-pessoas-fisicas-ou-juridicas": {
+        "title": "13   . Como Cadastrar Pessoas Físicas ou Jurídicas?"
+      },
+      "user-como-cadastrar-servidores": {
+        "title": "17. Como Cadastrar Servidores?"
+      },
+      "user-como-cadastrar-tipos-de-componentes-curriculares": {
+        "title": "11. Como Cadastrar Tipos de Componentes Curriculares?"
+      },
+      "user-como-cadastrar-um-aluno": {
+        "title": "14. Como Cadastrar um Aluno?"
+      },
+      "user-como-cadastrar-uma-escola": {
+        "title": "10. Como Cadastrar uma Escola?"
+      },
+      "user-como-definir-ano-letivo": {
+        "title": "18. Como Definir Ano Letivo?"
+      },
+      "user-como-emitir-relatorios": {
+        "title": "Como Emitir Relatórios?"
+      },
+      "user-como-realizar-enturmacoes": {
+        "title": "Como Realizar Enturmações?"
+      },
       "user-configuracoes": {
         "title": "Configurações"
       },
@@ -70,12 +103,24 @@
       "user-conhecendo-sistema": {
         "title": "Conhecendo o sistema"
       },
+      "user-criar-quadro-horarios-turma": {
+        "title": "Como Criar um Quadro de Horários da Turma?"
+      },
+      "user-finalizar-ano-letivo": {
+        "title": "Como Finalizar um Ano Letivo?"
+      },
+      "user-gerar-historico-escolar": {
+        "title": "Como Gerar Históricos Escolares?"
+      },
       "pag-capa": {
         "title": "Bem-Vindo!"
       },
       "user-intro": {
         "title": "Documentação para Usuários",
         "sidebar_label": "Home"
+      },
+      "user-lancar-notas-faltas": {
+        "title": "Como lançar notas e faltas?"
       },
       "user-modulo-enderecamento-pessoas": {
         "title": "Módulo Endereçamento e Pessoas"
@@ -89,8 +134,17 @@
       "user-regras-avaliacao-notas": {
         "title": "Regras de Avaliação e Notas"
       },
+      "user-rematricula-automatica": {
+        "title": "Como Realizar Rematrícula Automática?"
+      },
+      "user-reservar-vagas": {
+        "title": "Como Reservar Vagas?"
+      },
       "user-servidores-e-professores": {
         "title": "Servidores e Professores"
+      },
+      "user-vincular-professor-turma": {
+        "title": "Como Vincular Professor à Turma?"
       }
     },
     "links": {
