@@ -37,6 +37,9 @@
       "user-ano-letivo-escolar-matriculas": {
         "title": "Ano Letivo Escolar e Matrículas"
       },
+      "apresentacao": {
+        "title": "Apresentação"
+      },
       "user-cadastros-sistema-educacional": {
         "title": "Cadastros do Sistema Educacional"
       },
@@ -46,8 +49,29 @@
       "user-como-realizar-enturmacoes": {
         "title": "Como Realizar Enturmações?"
       },
+      "user-como_acessar_i-educar": {
+        "title": "4. Como acessar o i-Educar?"
+      },
+      "user-como_cadastrar_enderecos": {
+        "title": "6. Como Cadastrar Endereços?"
+      },
+      "user-como_cadastrar_tipo_de_curso": {
+        "title": "7. Como Cadastrar um Tipo de Curso?"
+      },
+      "user-como_cadastrar_tipos_de_escola": {
+        "title": "9. Como Cadastrar Tipos de Escola?"
+      },
+      "user-como_cadastrar_um_curso": {
+        "title": "8. Como Cadastrar um Curso?"
+      },
+      "user-como_configurar_conta_de_acesso": {
+        "title": "5. Como configurar sua conta de acesso?"
+      },
       "user-configuracoes": {
         "title": "Configurações"
+      },
+      "user-conhecendo_sistema": {
+        "title": "1. Conheça o i-Educar 2.0"
       },
       "user-conhecendo-sistema": {
         "title": "Conhecendo o sistema"
@@ -61,6 +85,9 @@
       "user-gerar-historico-escolar": {
         "title": "Como Gerar Históricos Escolares?"
       },
+      "pag-capa": {
+        "title": "Bem-Vindo!"
+      },
       "user-intro": {
         "title": "Documentação para Usuários",
         "sidebar_label": "Home"
@@ -70,6 +97,12 @@
       },
       "user-modulo-enderecamento-pessoas": {
         "title": "Módulo Endereçamento e Pessoas"
+      },
+      "user-por_onde_comecar": {
+        "title": "3. Por onde começar?"
+      },
+      "user-quem_podera_ajudar": {
+        "title": "2. Quem poderá me ajudar?"
       },
       "user-regras-avaliacao-notas": {
         "title": "Regras de Avaliação e Notas"

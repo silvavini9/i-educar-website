@@ -24,7 +24,6 @@
       "user-configuracoes",
       "user-ano-letivo-escolar-matriculas",
       "user-regras-avaliacao-notas",
-
       "user-vincular-professor-turma",
       "user-criar-quadro-horarios-turma",
       "user-como-realizar-enturmacoes",
@@ -33,8 +32,18 @@
       "user-reservar-vagas",
       "user-finalizar-ano-letivo",
       "user-como-emitir-relatorios",
-      "user-gerar-historico-escolar"
-
+      "user-gerar-historico-escolar",
+      "pag-capa",
+      "apresentacao",
+      "user-conhecendo_sistema",
+      "user-quem_podera_ajudar",
+      "user-por_onde_comecar",
+      "user-como_acessar_i-educar",
+      "user-como_configurar_conta_de_acesso",
+      "user-como_cadastrar_enderecos",
+      "user-como_cadastrar_tipo_de_curso",
+      "user-como_cadastrar_um_curso",
+      "user-como_cadastrar_tipos_de_escola"
     ]
   }
 }
