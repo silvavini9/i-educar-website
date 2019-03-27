@@ -1,6 +1,7 @@
 ---
 id: user-como_cadastrar_tipos_de_escola
-title: 9. Como Cadastrar Tipos de Escola?
+title: Como Cadastrar Tipos de Escola?
+sidebar_label: 9. Como Cadastrar Tipos de Escola?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antes dos cadastros de Escolas, é dado como pré requisito no sistema i-Educar os cadastros de Tipos de Escolas, sendo eles: Tipos de etapas;  Tipos de localização; Tipos de redes de ensino.

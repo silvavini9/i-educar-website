@@ -1,6 +1,7 @@
 ---
 id: user-como-cadastrar-um-aluno
-title: 14. Como Cadastrar um Aluno?
+title: Como Cadastrar um Aluno?
+sidebar_label: 14. Como Cadastrar um Aluno?
 ---
 
 <div class="textoJustificado">
@@ -23,7 +24,7 @@ title: 14. Como Cadastrar um Aluno?
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 22 - Módulo Escola >> Cadastros >> Alunos >> Novo.**
+<p class="centerText">Animação 22 - Módulo Escola >> Cadastros >> Alunos >> Novo.</p>
 
 </div>
 
@@ -44,7 +45,7 @@ title: 14. Como Cadastrar um Aluno?
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 23 - Módulo Pessoas >> Cadastros >> Pessoas Física.**
+<p class="centerText">Animação 23 - Módulo Pessoas >> Cadastros >> Pessoas Física.</p>
 
 </div>
 
@@ -66,7 +67,7 @@ title: 14. Como Cadastrar um Aluno?
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 24 - Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo.**
+<p class="centerText">Animação 24 - Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo.</p>
 
 </div>
 
@@ -86,7 +87,7 @@ title: 14. Como Cadastrar um Aluno?
 
 </div>
 
-### 3. Unificação de Alunos
+## 3. Unificação de Alunos
 
 <div class="textoJustificado">
 
@@ -98,6 +99,6 @@ title: 14. Como Cadastrar um Aluno?
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 25 - Módulo Escola >> Ferramentas >> Unificações >> Unificações de Alunos.**
+<p class="centerText">Animação 25 - Módulo Escola >> Ferramentas >> Unificações >> Unificações de Alunos.   </p>
 
 </div>

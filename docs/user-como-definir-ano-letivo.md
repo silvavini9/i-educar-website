@@ -1,6 +1,7 @@
 ---
 id: user-como-definir-ano-letivo
-title: 18. Como Definir Ano Letivo?
+title: Como Definir Ano Letivo?
+sidebar_label: 18. Como Definir Ano Letivo?
 ---
 
 <div class="textoJustificado">
@@ -12,9 +13,4 @@ Para Definir um Ano Letivo, basta ir no **Módulo Escola >> Cadastros >> Escola 
 
 ![Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo](../img/user-docs/definir_ano_letivo.gif)
 
-<div class="divNotaCentralizadaGif"> 
-
-**Animação 27 - Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo.**
-
-</div>
-
+<p class="centerText">Animação 27 - Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo.</p>

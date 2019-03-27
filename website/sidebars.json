@@ -36,6 +36,15 @@
       "user-como-cadastrar-funcoes",
       "user-como-cadastrar-servidores",
       "user-como-definir-ano-letivo",
+      "como-configurar-anos-escolares",
+      "como-cadastrar-um-calendario",
+      "como-cadastrar-regras-de-avaliacao",
+      "como-cadastrar-series",
+      "como-cadastrar-series-na-escola",
+      "como-cadastrar-um-tipo-de-turma",
+      "como-cadastrar-turma",
+      "como-matricular-alunos",
+      "user-como_cadastrar_tipos_matriculas",
       "user-vincular-professor-turma",
       "user-criar-quadro-horarios-turma",
       "user-como-realizar-enturmacoes",
@@ -44,7 +53,8 @@
       "user-reservar-vagas",
       "user-finalizar-ano-letivo",
       "user-como-emitir-relatorios",
-      "user-gerar-historico-escolar"
+      "user-gerar-historico-escolar",
+      "user-quais_documentos_posso_gerar"
     ]
   }
 }

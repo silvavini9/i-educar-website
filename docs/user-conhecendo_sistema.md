@@ -1,6 +1,7 @@
 ---
 id: user-conhecendo_sistema
-title: 1. Conheça o i-Educar 2.0
+title: Conheça o i-Educar 2.0
+sidebar_label: 1. Conheça o i-Educar 2.0
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O i-Educar 2.0 é uma software livre, disponível no Portal do Software Público, que permite gerir os processos escolares, matrículas e dados dos alunos. O i-educar dispõe de várias funcionalidades. Ele envolve processos que vão desde o endereçamento até o lançamentos de notas, faltas e ocorrências do aluno, além de otimizar os processos de matrículas, rematrículas e enturmações.

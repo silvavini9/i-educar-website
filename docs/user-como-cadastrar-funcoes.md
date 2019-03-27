@@ -1,6 +1,7 @@
 ---
 id: user-como-cadastrar-funcoes
-title: 16. Como Cadastrar Funções?
+title: Como Cadastrar Funções?
+sidebar_label: 16. Como Cadastrar Funções?
 ---
 
 <div class="textoJustificado">
@@ -13,8 +14,4 @@ Para realizar o cadastramento de uma função, acesse o **Módulo Servidores >> 
 
 ![Módulo Servidores >> Cadastros >> Tipos >> Funções >> Novo](../img/user-docs/cadastrar_funcoes_servidores.gif)
 
-<div class="divNotaCentralizadaGif"> 
-
-**Animação 25 -  Módulo Servidores >> Cadastros >> Tipos >> Funções >> Novo.**
-
-</div>
+<p class="centerText">Animação 25 -  Módulo Servidores >> Cadastros >> Tipos >> Funções >> Novo.</p>

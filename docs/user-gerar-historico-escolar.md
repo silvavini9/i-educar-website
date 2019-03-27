@@ -1,6 +1,7 @@
 ---
 id: user-gerar-historico-escolar
 title: Como Gerar Históricos Escolares?
+sidebar_label: 35. Como Gerar Históricos Escolares?
 ---
 
 <div class="justificado">

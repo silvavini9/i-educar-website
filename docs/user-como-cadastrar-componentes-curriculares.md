@@ -1,6 +1,7 @@
 ---
 id: user-como-cadastrar-componentes-curriculares
-title: 12. Como Cadastrar Componentes Curriculares?
+title: Como Cadastrar Componentes Curriculares?
+sidebar_label: 12. Como Cadastrar Componentes Curriculares?
 ---
 
 
@@ -20,6 +21,6 @@ Para cadastrar um componente curricular, basta ir no **Módulo Escola >> Cadastr
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 19 - Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo.**
+<p class="centerText">Animação 19 - Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo.</p>
 
 </div> 

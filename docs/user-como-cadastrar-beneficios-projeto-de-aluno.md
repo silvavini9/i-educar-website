@@ -1,6 +1,7 @@
 ---
 id: user-como-cadastrar-beneficios-projetos-de-aluno
-title: 15. Como Cadastrar Benefícios / Projetos de Aluno?
+title: Como Cadastrar Benefícios / Projetos de Aluno?
+sidebar_label: 15. Como Cadastrar Benefícios / Projetos de Aluno?
 ---
 
 ## Como Cadastrar Benefícios de Aluno?

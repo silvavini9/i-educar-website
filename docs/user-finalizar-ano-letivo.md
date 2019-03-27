@@ -1,6 +1,7 @@
 ---
 id: user-finalizar-ano-letivo
 title: Como Finalizar um Ano Letivo?
+sidebar_label: 33. Como Finalizar um Ano Letivo?
 ---
 
 <div class="justificado">

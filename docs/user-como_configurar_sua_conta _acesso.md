@@ -1,6 +1,7 @@
 ---
 id: user-como_configurar_conta_de_acesso
-title: 5. Como configurar sua conta de acesso?
+title: Como configurar sua conta de acesso?
+sidebar_label: 5. Como configurar sua conta de acesso?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O acesso ao i-Educar, quando realizado por um usuário anteriormente cadastrado, possui a opção de configuração da conta, ou seja: preenchimento da agenda pessoal, calendário escolar ou até alteração de dados como a matrícula e a senha.

@@ -1,6 +1,7 @@
 ---
 id: user-reservar-vagas
 title: Como Reservar Vagas?
+sidebar_label: 32. Como Reservar Vagas?
 ---
 
 <div class="justificado">

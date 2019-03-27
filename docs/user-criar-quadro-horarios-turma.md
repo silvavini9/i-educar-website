@@ -1,6 +1,7 @@
 ---
 id: user-criar-quadro-horarios-turma
 title: Como Criar um Quadro de Horários da Turma?
+sidebar_label: 28. Como Criar um Quadro de Horários da Turma?
 ---
 
 <div class="justificado">

@@ -1,6 +1,7 @@
 ---
 id: user-como-cadastrar-tipos-de-componentes-curriculares
-title: 11. Como Cadastrar Tipos de Componentes Curriculares?
+title: Como Cadastrar Tipos de Componentes Curriculares?
+sidebar_label: 11. Como Cadastrar Tipos de Componentes Curriculares?
 ---
 
 <div class="textoJustificado">
@@ -22,7 +23,7 @@ Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Esco
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 17 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Área do conhecimento >> Novo.**
+<p class="centerText">Animação 17 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Área do conhecimento >> Novo.</p>
 
 </div> 
 
@@ -39,6 +40,6 @@ Para realizar o cadastramento de um tipo de dispensa, acesse o **Módulo Escola 
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 18 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo.**
+<p class="centerText">Animação 18 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo.</p>
 
 </div>
