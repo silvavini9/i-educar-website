@@ -56,7 +56,7 @@
 }
 
 .blogBlock p{
-  font-family: $descriptionFont;
+  font-family: Hind-Regular, sans-serif;
   font-size: 16px;
   font-weight: normal;
   font-style: normal;
