@@ -9,4 +9,4 @@ title: Como Cadastrar um Tipo de Turma?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um tipo de turma, acesse o **Módulo Escola >> Cadastros >> Tipos >> Turmas >> Tipos de Turma >> Novo.**
 
-(Aqui vai a Animação 33 - **Módulo Escola >> Cadastros >> Tipos >> Turmas >> Tipos de Turma >> Novo.**)
+![Para cadastrar um novo tipo de turma, entre no Módulo Escola, entre em Cadastros, entre em Tipos de Turma depois entre em Novo](../img/treinamento-gif/cadastrar_tipos_turma.gif)
