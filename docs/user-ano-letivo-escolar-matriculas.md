@@ -11,7 +11,7 @@ Neste cadastro você poderá informar quais os módulos existentes na instituiç
 
 > **Localização:** Módulo Escola > Cadastros > Tipos > Escolas > Tipos de Módulos
 
-![Listagem de módulos cadastros, com as colunas "Módulo", "Número Meses" e "Instituição"](../img/user-docs/user-figura-39-listagem-cadastro-modulos.png)
+![Listagem de módulos cadastros, com as colunas "Módulo", "Número Meses" e "Instituição"](/img/user-docs/user-figura-39-listagem-cadastro-modulos.png)
 
 Na Figura 39, pode ser visualizada a listagem dos três módulos mais comuns: Bimestral, Semestral, Trimestral.
 
