@@ -67,6 +67,33 @@
       "user-como_configurar_conta_de_acesso": {
         "title": "5. Como configurar sua conta de acesso?"
       },
+      "user-como-cadastrar-beneficios-projetos-de-aluno": {
+        "title": "15. Como Cadastrar Benefícios / Projetos de Aluno?"
+      },
+      "user-como-cadastrar-componentes-curriculares": {
+        "title": "12. Como Cadastrar Componentes Curriculares?"
+      },
+      "user-como-cadastrar-funcoes": {
+        "title": "16. Como Cadastrar Funções?"
+      },
+      "user-como-cadastrar-pessoas-fisicas-ou-juridicas": {
+        "title": "13   . Como Cadastrar Pessoas Físicas ou Jurídicas?"
+      },
+      "user-como-cadastrar-servidores": {
+        "title": "17. Como Cadastrar Servidores?"
+      },
+      "user-como-cadastrar-tipos-de-componentes-curriculares": {
+        "title": "11. Como Cadastrar Tipos de Componentes Curriculares?"
+      },
+      "user-como-cadastrar-um-aluno": {
+        "title": "14. Como Cadastrar um Aluno?"
+      },
+      "user-como-cadastrar-uma-escola": {
+        "title": "10. Como Cadastrar uma Escola?"
+      },
+      "user-como-definir-ano-letivo": {
+        "title": "18. Como Definir Ano Letivo?"
+      },
       "user-configuracoes": {
         "title": "Configurações"
       },

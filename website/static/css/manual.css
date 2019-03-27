@@ -62,3 +62,24 @@ p {
     width: 500px;
     height: 500px;
 }
+.divNotaCentralizadaGif{
+    text-align: center;
+    font-size: 14px;
+}
+.corVermelha{
+    color: red;
+}
+.underline{
+    text-decoration: underline;
+}
+.textoJustificado p{
+    text-align: justify;
+}
+.preRequisito{
+    border: solid 1px; 
+    padding: 0% 4%;
+    margin-bottom: 0%;
+}
+.preRequisito h2{ 
+   margin-top: 16px;
+}
