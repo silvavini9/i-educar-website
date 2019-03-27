@@ -17,6 +17,30 @@
         "title": "Setup inicial",
         "sidebar_label": "Setup inicial"
       },
+      "como-cadastrar-regras-de-avaliacao": {
+        "title": "Como Cadastrar Regras de Avaliação?"
+      },
+      "como-cadastrar-series-na-escola": {
+        "title": "Como Cadastrar Séries na Escola?"
+      },
+      "como-cadastrar-series": {
+        "title": "Como Cadastrar Séries?"
+      },
+      "como-cadastrar-turma": {
+        "title": "Como Cadastrar Turma?"
+      },
+      "como-cadastrar-um-calendario": {
+        "title": "Como Cadastrar um Calendário?"
+      },
+      "como-cadastrar-um-tipo-de-turma": {
+        "title": "Como Cadastrar um Tipo de Turma?"
+      },
+      "como-configurar-anos-escolares": {
+        "title": "Como Configurar Anos Escolares?"
+      },
+      "como-matricular-alunos": {
+        "title": "Como Matricular Alunos?"
+      },
       "dev-comecando-contribuir-docs": {
         "title": "Começando a contribuir com a documentação"
       },
