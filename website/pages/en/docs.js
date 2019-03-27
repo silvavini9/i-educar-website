@@ -97,7 +97,7 @@ class Docs extends React.Component {
             image: imgUrl('funcionalidades/book.svg'),
             imageAlign: 'top',
             title: 'Usuário',
-            link: docUrl("user-intro"),
+            link: docUrl("user-intro_manual"),
           },
           {
             content: 'Um guia para tornar a gestão do i-Educar mais fácil e intuitiva.',
