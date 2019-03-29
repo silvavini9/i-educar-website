@@ -103,6 +103,10 @@
         "title": "Como configurar sua conta de acesso?",
         "sidebar_label": "5. Como configurar sua conta de acesso?"
       },
+      "user-como_lancar_ocorrencia_disciplinares": {
+        "title": "Como Lançar Ocorrências Disciplinares?",
+        "sidebar_label": "28. Como Lançar Ocorrências Disciplinares?"
+      },
       "user-como-cadastrar-beneficios-projetos-de-aluno": {
         "title": "Como Cadastrar Benefícios / Projetos de Aluno?",
         "sidebar_label": "15. Como Cadastrar Benefícios / Projetos de Aluno?"
@@ -141,11 +145,11 @@
       },
       "user-como-emitir-relatorios": {
         "title": "Como Emitir Relatórios?",
-        "sidebar_label": "34. Como Emitir Relatórios?"
+        "sidebar_label": "36. Como Emitir Relatórios?"
       },
       "user-como-realizar-enturmacoes": {
         "title": "Como Realizar Enturmações?",
-        "sidebar_label": "29. Como Realizar Enturmações?"
+        "sidebar_label": "31. Como Realizar Enturmações?"
       },
       "user-configuracoes": {
         "title": "Configurações"
@@ -159,15 +163,15 @@
       },
       "user-criar-quadro-horarios-turma": {
         "title": "Como Criar um Quadro de Horários da Turma?",
-        "sidebar_label": "28. Como Criar um Quadro de Horários da Turma?"
+        "sidebar_label": "29. Como Criar um Quadro de Horários da Turma?"
       },
       "user-finalizar-ano-letivo": {
         "title": "Como Finalizar um Ano Letivo?",
-        "sidebar_label": "33. Como Finalizar um Ano Letivo?"
+        "sidebar_label": "35. Como Finalizar um Ano Letivo?"
       },
       "user-gerar-historico-escolar": {
         "title": "Como Gerar Históricos Escolares?",
-        "sidebar_label": "35. Como Gerar Históricos Escolares?"
+        "sidebar_label": "37. Como Gerar Históricos Escolares?"
       },
       "user-intro_manual": {
         "title": "Bem-Vindo!"
@@ -178,7 +182,7 @@
       },
       "user-lancar-notas-faltas": {
         "title": "Como lançar notas e faltas?",
-        "sidebar_label": "30. Como lançar notas e faltas?"
+        "sidebar_label": "32. Como lançar notas e faltas?"
       },
       "user-modulo-enderecamento-pessoas": {
         "title": "Módulo Endereçamento e Pessoas"
@@ -189,7 +193,7 @@
       },
       "user-quais_documentos_posso_gerar": {
         "title": "Quais documentos posso gerar?",
-        "sidebar_label": "35. Quais documentos posso gerar?"
+        "sidebar_label": "38. Quais documentos posso gerar?"
       },
       "user-quem_podera_ajudar": {
         "title": "Quem poderá me ajudar?",
@@ -200,18 +204,18 @@
       },
       "user-rematricula-automatica": {
         "title": "Como Realizar Rematrícula Automática?",
-        "sidebar_label": "31. Como Realizar Rematrícula Automática?"
+        "sidebar_label": "33. Como Realizar Rematrícula Automática?"
       },
       "user-reservar-vagas": {
         "title": "Como Reservar Vagas?",
-        "sidebar_label": "32. Como Reservar Vagas?"
+        "sidebar_label": "34. Como Reservar Vagas?"
       },
       "user-servidores-e-professores": {
         "title": "Servidores e Professores"
       },
       "user-vincular-professor-turma": {
         "title": "Como Vincular Professor à Turma?",
-        "sidebar_label": "27. Como Vincular Professor à Turma?"
+        "sidebar_label": "29. Como Vincular Professor à Turma?"
       }
     },
     "links": {

@@ -226,21 +226,15 @@ const Features = props => (
         title: 'Quadro de horário',
       },
       {
-        content: 'Controle de veiculos, motoristas, rotas, itinerários, emissão de carteirinha e controle de usuários do tranporte.',
-        image: imgUrl('funcionalidades/bus.png'),
+        content: 'Gestão completa de acervo com controle de reservas, emprestimos e devolução .Recibos de controle disponiveis para cada fase do processo.',
+        image: imgUrl('funcionalidades/book.png'),
         imageAlign: 'top',
-        title: 'Transporte escolar',
+        title: 'Biblioteca',
       }
     ]}
   </Block>
   <Block layout="threeColumn" className="featureContainerLast" classNameGrid="featureBlock">
     {[
-      {
-        content: 'Gestão completa de acervo com controle de reservas, emprestimos e devolução .Recibos de controle disponiveis para cada fase do processo.',
-        image: imgUrl('funcionalidades/book.png'),
-        imageAlign: 'top',
-        title: 'Biblioteca',
-      },
       {
         content: 'Usufrua de uma  coleção  de mais 150 modelos de relatórios e documentos Boletins, historia, ficha, atestados e gráficos.',
         image: imgUrl('funcionalidades/graph.png'),

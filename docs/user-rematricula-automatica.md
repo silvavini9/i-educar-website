@@ -1,7 +1,7 @@
 ---
 id: user-rematricula-automatica
 title: Como Realizar Rematrícula Automática?
-sidebar_label:  31. Como Realizar Rematrícula Automática?
+sidebar_label: 33. Como Realizar Rematrícula Automática?
 ---
 
 <div class="justificado">
