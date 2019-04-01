@@ -6,8 +6,8 @@ sidebar_label: 12. Como Cadastrar Componentes Curriculares?
 
 
 >## Pré-requisitos:
->* **Cadastrar uma Instituição**;
->* **Cadastrar uma Área do conhecimento**.
+>* [Cadastrar uma Instituição]();
+>* [Cadastrar uma Área do conhecimento](user-como-cadastrar-tipos-de-componentes-curriculares.html#111-areas-do-conhecimento).
 
 
 <div class="textoJustificado">

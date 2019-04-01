@@ -10,7 +10,7 @@ sidebar_label: 11. Como Cadastrar Tipos de Componentes Curriculares?
 
 </div>
 
-## 1. Áreas do Conhecimento
+## 11.1. Áreas do Conhecimento
 
 <div class="textoJustificado">
 
@@ -27,7 +27,7 @@ Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Esco
 
 </div> 
 
-## 2. Tipos de dispensa.
+## 11.2. Tipos de dispensa.
 
 <div class="textoJustificado">
 

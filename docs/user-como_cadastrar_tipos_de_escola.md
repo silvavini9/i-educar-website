@@ -20,7 +20,7 @@ sidebar_label: 9. Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tipos de Localização de refere ao local que que o espaço físico da escola está localizado. 
 
-**Exemplo: Escolas Rurais e Escolas Urbanas.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Exemplo: Escolas Rurais e Escolas Urbanas.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma rede de ensino (Animação 13), acesse o **Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de localização >> Novo.**
 

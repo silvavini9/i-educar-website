@@ -6,7 +6,7 @@ sidebar_label: 38. Quais documentos posso gerar?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por meio do menu ***Escola >> Documentos***, uma série de documentos (157 tipos de relatórios) podem ser gerados para o auxílio administrativo da gestão escolar, de acordo com a seguinte categorização:
 
-## 1. Atestados
+>## 1. Atestados
 
 - **a**. Atestado de abandono
 - **b**. Atentado de escolaridade
@@ -21,7 +21,7 @@ sidebar_label: 38. Quais documentos posso gerar?
 - **k**. Termo de desistência de vaga
 - **l**. Utilização da imagem do aluno
 
-## 2. Boletins
+>## 2. Boletins
 
 - **a**. Boletim de transferência 
 - **b**. Boletim do professor
@@ -36,25 +36,25 @@ sidebar_label: 38. Quais documentos posso gerar?
 - **k**. Ficha individual - Resende
 - **l**. Parece descrito por etapa
 
-## 3. Resultados
+>## 3. Resultados
 
 - **a**. Mapa do conselho de classe 
 - **b**. Resultado final
 - **c**. Mapa final por disciplina
 
-## 4. Carteiras
+>## 4. Carteiras
 
 - **a**. Carteira de estudante
 - **b**. Carteira de transporte
 
-## 5. Certificados
+>## 5. Certificados
 
 - **a**. Certificado  de conclusão da educação infantil
 - **b**. Certificado  de conclusão da ensino Fundamental
 
-## 6. Documentação padrão
+>## 6. Documentação padrão
 
-## 7. Documentação CBAL
+>## 7. Documentação CBAL
 
 - **a**. Apresentação histórico
 - **b**. Ficha individual
@@ -62,18 +62,18 @@ sidebar_label: 38. Quais documentos posso gerar?
 - **d**. Parecer histórico
 - **e**. Registro síntese de comp. e habilidades 
 
-## 8. Fichas
+>## 8. Fichas
 
 - **a**. Ficha de moradia do aluno
 - **b**. Ficha do aluno
 - **c**. Ficha do aluno em branco
 - **d**. Ficha médica do aluno
 
-## 9. Históricos
+>## 9. Históricos
 
 - **a**. Histórico escolar
 
-## 10. Registros
+>## 10. Registros
 
 - **a**. Canhoto do professor
 - **b**. Diário de classe
