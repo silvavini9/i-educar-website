@@ -5,13 +5,18 @@ sidebar_label: 2. Quem poderá me ajudar?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A comunicação com a equipe de suporte do I-educar acontecerá via plataforma Google Hangouts. Esta aplicação permite mensagens instantâneas, ligações em voz e vídeo, criação de grupos e chat de ligação. 
-Para usar o serviço citado acima é necessário somente uma conta no Google, o usuário pode acessá-lo pelo: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para usar o serviço citado acima é necessário somente uma conta no Google, o usuário pode acessá-lo pelo: 
+
+<div class="blockContent"> 
 
 + Gmail: https://www.google.com/intl/pt/gmail/about/#;
 
 + Hangouts:  https://hangouts.google.com/?hl=pt-BR;
 
 + Aplicativo Hangouts disponível na Play Store (Android) ou App Store (iOS). 
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em ambas as alternativas o usuário dele realizar a autenticação (Login) com uma conta do Google (Gmail) anteriormente cadastrada para a utilização de ferramentas.
 
