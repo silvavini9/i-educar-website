@@ -6,7 +6,7 @@ sidebar_label: 22. Como Cadastrar Séries?
 
 > **Pré-requisitos:**
 >*  [Cadastrar um Curso](user-como_cadastrar_um_curso);
->*  [Cadastrar uma Etapa](user-como_cadastrar_tipos_de_escola.html#91-tipos-de-etapas);
+>*  [Cadastrar uma Etapa](user-como_cadastrar_tipos_de_escola.html#tipos-de-etapas);
 >*  [Cadastrar uma Regra de Avaliação](como-cadastrar-regras-de-avaliacao).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As Séries se tratam das séries, mais conhecidas como anos, que os cursos ofertam, tais como 1° ano, 2° ano e assim por diante, cursos de Ensino Fundamental I ofertam da 1° à 5° série, por exemplo.

@@ -6,7 +6,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por meio do **Módulo Escola >> Relatórios**, uma série de relatórios (63 tipos de relatórios) podem ser gerados para o auxílio da gestão escolar, de acordo com a seguinte categorização:
 
-> **1. Gerenciais :** 
+> ## 1. Gerenciais 
 
 * Gráfico de usuários e acessos ;
     
@@ -15,7 +15,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 * Relatório de usuários e acessos.
 
 
-> **2. Movimetações :**
+> ## 2. Movimetações 
 
 * Movimento de aluno ;
     
@@ -26,7 +26,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 * Quadro situação final.
 
 
-> **3. Lançamentos :**
+> ## 3. Lançamentos 
 
 * Relatório de alunos com carteira do SUS ;
 
@@ -65,7 +65,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 * Relatório de anos letivos por escola.
 
 
-> **4. Cadastrais :**
+> ## 4. Cadastrais
 
 * Relatório de alunos com carteira do SUS ;
    
@@ -104,7 +104,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 * Relatório de anos letivos por escola.
 
 
-> **5. Matrículas :**
+> ## 5. Matrículas 
 
 * Mapa quantitativo de matrículas enturmadas ;
         
@@ -133,7 +133,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 * Relatório de alunos por turno.
      
 
-> **6. Indicadores :**
+> ## 6. Indicadores
 
 * Comparativo de desempenho entre anos ;
     
@@ -164,7 +164,7 @@ sidebar_label: 36. Como Emitir Relatórios?
 * Relatório de alunos com o melhor desempenho.
 
     
-> **7. Vagas :**
+> ## 7. Vagas 
 
 * Demandas x disponibilidade de vagas na ed. infantil ;
     
