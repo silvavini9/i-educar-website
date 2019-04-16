@@ -1,5 +1,5 @@
 ---
-id: pag-capa
+id: user-intro_manual
 title: Bem-Vindo!
 ---
 

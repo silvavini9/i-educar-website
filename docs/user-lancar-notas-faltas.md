@@ -1,6 +1,7 @@
 ---
 id: user-lancar-notas-faltas
 title: Como lançar notas e faltas?
+sidebar_label: 32. Como lançar notas e faltas?
 ---
 <div class="justificado">
 

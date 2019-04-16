@@ -1,11 +1,12 @@
 ---
 id: user-como-cadastrar-uma-escola
-title: 10. Como Cadastrar uma Escola?
+title: Como Cadastrar uma Escola?
+sidebar_label: 10. Como Cadastrar uma Escola?
 ---
 
 >## Pré-requisitos: 
->* **Cadastrar Rede de Ensino**;
->* **Cadastrar Cursos**.
+>* [Cadastrar Rede de Ensino](user-como_cadastrar_tipos_de_escola#tipos-de-rede-de-ensino);
+>* [Cadastrar Cursos](user-como_cadastrar_um_curso).
 
 <div class="textoJustificado">
 
@@ -19,7 +20,7 @@ title: 10. Como Cadastrar uma Escola?
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 15 - Módulo Escola >> Cadastros >> Escolas.**
+<p class="centerText">Animação 15 - Módulo Escola >> Cadastros >> Escolas.</p>
 
 </div>
 
@@ -33,7 +34,7 @@ title: 10. Como Cadastrar uma Escola?
 
 <div class="divNotaCentralizadaGif"> 
 
-**Animação 16 - Módulo Escola >> Cadastros >> Escolas >> Novo.**
+<p class="centerText">Animação 16 - Módulo Escola >> Cadastros >> Escolas >> Novo.</p>
 
 </div>
 

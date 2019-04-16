@@ -54,6 +54,9 @@ class Footer extends React.Component {
                 <li>
                   <a href="https://github.com/portabilis/i-educar" >Github</a>
                 </li>
+                <li>
+                  <a href="">Manual de identidade</a>
+                </li>
               </ul>
             </nav>
           </div>

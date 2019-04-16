@@ -16,24 +16,7 @@
   },
   "user": {
     "Documentação para Usuários": [
-      "user-intro",
-      "user-conhecendo-sistema",
-      "user-modulo-enderecamento-pessoas",
-      "user-cadastros-sistema-educacional",
-      "user-servidores-e-professores",
-      "user-configuracoes",
-      "user-ano-letivo-escolar-matriculas",
-      "user-regras-avaliacao-notas",
-      "user-vincular-professor-turma",
-      "user-criar-quadro-horarios-turma",
-      "user-como-realizar-enturmacoes",
-      "user-lancar-notas-faltas",
-      "user-rematricula-automatica",
-      "user-reservar-vagas",
-      "user-finalizar-ano-letivo",
-      "user-como-emitir-relatorios",
-      "user-gerar-historico-escolar",
-      "pag-capa",
+      "user-intro_manual",
       "apresentacao",
       "user-conhecendo_sistema",
       "user-quem_podera_ajudar",
@@ -60,7 +43,19 @@
       "como-cadastrar-series-na-escola",
       "como-cadastrar-um-tipo-de-turma",
       "como-cadastrar-turma",
-      "como-matricular-alunos"
+      "como-matricular-alunos",
+      "user-como_cadastrar_tipos_matriculas",
+      "user-como_lancar_ocorrencia_disciplinares",
+      "user-vincular-professor-turma",
+      "user-criar-quadro-horarios-turma",
+      "user-como-realizar-enturmacoes",
+      "user-lancar-notas-faltas",
+      "user-rematricula-automatica",
+      "user-reservar-vagas",
+      "user-finalizar-ano-letivo",
+      "user-como-emitir-relatorios",
+      "user-gerar-historico-escolar",
+      "user-quais_documentos_posso_gerar"
     ]
   }
 }

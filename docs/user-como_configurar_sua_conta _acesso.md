@@ -1,9 +1,10 @@
 ---
 id: user-como_configurar_conta_de_acesso
-title: 5. Como configurar sua conta de acesso?
+title: Como configurar sua conta de acesso?
+sidebar_label: 5. Como configurar sua conta de acesso?
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O acesso ao i-Educar, quando realizado por um usuário anteriormente cadastrado, possui a opção de configuração da conta, ou seja: preenchimento da agenda pessoal, calendário escolar ou até alteração de dados como a matrícula e a senha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O acesso ao i-Educar, quando realizado por um usuário anteriormente cadastrado, possui a opção de configuração da conta, ou seja: preenchimento da agenda pessoal, calendário escolar ou até alteração de dados como matrícula e senha.
 
 ![Clique no perfil e mostrando as opções](/img/treinamento_gifs/conta_de_acesso.gif)
 
@@ -13,7 +14,7 @@ title: 5. Como configurar sua conta de acesso?
 
 **Agenda**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa opção é possível cadastrar compromissos, “novo compromisso”, segundo o dia no calendário. Assim como também é possível alterar as configurações da agenda no botão “preferências”.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa opção é possível cadastrar compromissos, “novo compromisso”, seguindo o dia no calendário. É possível também alterar as configurações da agenda no botão “preferências”.
 
 ![Clique no perfil e seleciona a opção agenda](/img/treinamento_gifs/acessar_agenda.gif)
 
@@ -21,7 +22,7 @@ title: 5. Como configurar sua conta de acesso?
 
 **Calendário**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No calendário (Imagem 1) são exibidos todos os compromissos cadastrados na agenda. Observe:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No calendário são exibidos todos os compromissos cadastrados na agenda. Observe:
 
 ![Mostra uma foto da página do calendário](/img/caldendarioManual.png)
 
@@ -29,7 +30,7 @@ title: 5. Como configurar sua conta de acesso?
 
 **Meus Dados**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa opção é possível configurar os dados de usuário (Animação 4), incluindo matrícula e senha, basta inserir os dados e salvar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesta opção é possível configurar os dados de usuário (Animação 4), incluindo matrícula e senha. É necessário inserir os dados e salvar.
    
 ![Clique no perfil e seleciona a opção agenda](/img/treinamento_gifs/alterar_meus_dados.gif)
 

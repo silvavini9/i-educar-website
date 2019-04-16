@@ -1,10 +1,4 @@
-.justificado
-{
-    text-align: justify;
-
-}
 .centerText {
-    text-align: center;
     text-align: center;
     font-weight: 600;
     font-size: 14px;
@@ -25,10 +19,13 @@ article p {
     font-size: 14px;
 }
 
-.border {
-    border: solid 1px black;
-    padding: 2%;    
-    margin-bottom: 4%; 
+.blockContent {
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+
+.bold {
+    font-weight: 600;
 }
 
 .img {
@@ -40,6 +37,7 @@ article p {
 .containerImg {
     display: flex;
     justify-content: center;
+    margin-top: 3%; 
 }
 
 .containerImg img {
