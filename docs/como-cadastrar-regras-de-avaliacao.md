@@ -8,6 +8,6 @@ sidebar_label: 21. Como Cadastrar Regras de Avaliação?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma Regra de Avaliação, acesse o **Módulo Escola >> Cadastros >> Regras de Avaliação >> Novo**
 
-![Para cadastrar as Regras de Avaliação acesse o  Módulo Escola, clique em Cadastros e depois entre em Regras de Avaliação e depois em Novo](../img/treinamento-gif/cadastrar_regra_avaliacao.gif)
+![Para cadastrar as Regras de Avaliação acesse o  Módulo Escola, clique em Cadastros e depois entre em Regras de Avaliação e depois em Novo](/img/treinamento-gif/cadastrar_regra_avaliacao.gif)
 
 <p class="centerText">Animação 30 - Módulo Escola >> Cadastros >> Regras de Avaliação >> Novo</p>

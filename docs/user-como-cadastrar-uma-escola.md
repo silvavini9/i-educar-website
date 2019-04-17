@@ -16,7 +16,7 @@ sidebar_label: 10. Como Cadastrar uma Escola?
 
 </div>
 
-![Módulo Escola >> Cadastros >> Escolas](../img/user-docs/cadastros_escola.gif)
+![Módulo Escola >> Cadastros >> Escolas](/img/user-docs/cadastros_escola.gif)
 
 <div class="divNotaCentralizadaGif"> 
 
@@ -30,7 +30,7 @@ sidebar_label: 10. Como Cadastrar uma Escola?
 
 </div>
 
-![Módulo Escola >> Cadastros >> Escolas >> Novo](../img/user-docs/cadastro_escola_part_2.gif)
+![Módulo Escola >> Cadastros >> Escolas >> Novo](/img/user-docs/cadastro_escola_part_2.gif)
 
 <div class="divNotaCentralizadaGif"> 
 

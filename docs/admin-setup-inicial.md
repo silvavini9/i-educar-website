@@ -34,7 +34,7 @@ anexá-lo por meio do botão **Escolha um arquivo**, por fim, o sistema irá
 carregar o documento e apresentá-lo abaixo com as opções de exclusão e 
 visualização, conforme exemplo abaixo.
 
-![](../img/admin/admin-figura-3.png)
+![](/img/admin/admin-figura-3.png)
 
 Para que o usuário possa emitir estes documentos, basta ele acessar o **Módulo 
 Escola > Documentos > Documentação padrão**.
@@ -70,7 +70,7 @@ O cadastro de **Usuários**, propriamente dito, permite o cadastro dos usuários
 
 > **Localização:** Módulo Configurações > Permissões > Usuários
 
-![](../img/admin/admin-figura-4.png)
+![](/img/admin/admin-figura-4.png)
 
 ## Como configurar cursos
 
@@ -85,7 +85,7 @@ estas informações são preenchidas ao cadastrar um curso.
 
 > **Localização:** Módulo Escola > Cadastros > Cursos
 
-![](../img/admin/admin-figura-5.png)
+![](/img/admin/admin-figura-5.png)
 
 As principais opções do cadastro de cursos são detalhadas a seguir:
 
@@ -109,7 +109,7 @@ série/ano.
 
 > **Localização:** Módulo Escola > Cadastros > Tipos > Escolas > Tipos de Etapas
 
-![](../img/admin/admin-figura-6.png)
+![](/img/admin/admin-figura-6.png)
 
 Pode ser visualizada na imagem acima a listagem das três etapas mais comuns:
 Bimestral, Trimestral e Semestral.
@@ -124,12 +124,12 @@ ano letivo** para cadastrar um novo ano.
 
 > **Localização:** Módulo Escola > Cadastros > Escola > Selecionar escola
 
-![](../img/admin/admin-figura-7.png)
+![](/img/admin/admin-figura-7.png)
 
 Ao pressionar o botão **Editar ano letivo**, uma nova página será apresentada 
 conforme ilustrado na figura abaixo.
 
-![](../img/admin/admin-figura-8.png)
+![](/img/admin/admin-figura-8.png)
 
 No exemplo, foram informados dois módulos semestrais e suas datas de início e 
 fim. Para adicionar as etapas, basta selecionar o módulo desejado na opção 
@@ -156,17 +156,17 @@ preenchidas ao cadastrar uma escola.
 
 > **Localização:** Módulo Escola > Cadastros > Escolas
 
-![](../img/admin/admin-figura-9.png)
+![](/img/admin/admin-figura-9.png)
 
 As principais opções e/ou componentes do cadastro de escolas são detalhadas a 
 seguir:
 
 Componente | Descrição | Como funciona?
 ---|---|---
-![](../img/admin/admin-componente-iniciar-ano-letivo.png) | Iniciar ano letivo | Ao pressionar este botão, o ano letivo da escola será iniciado.
-![](../img/admin/admin-componente-editar-ano-letivo.png) | Editar ano letivo | Ao pressionar este botão, será aberto outro cadastro para serem informados os módulos do ano letivo.  
-![](../img/admin/admin-componente-finalizar-ano-letivo.png) | Finalizar ano letivo | Ao pressionar este botão, o ano letivo da escola será finalizado. Deve-se notar que é permitido finalizar um ano letivo desde que não exista mais nenhuma matrícula em andamento no ano.
-![](../img/admin/admin-componente-reabrir-ano-letivo.png) | Reabrir ano letivo | Ao pressionar este botão, o ano letivo já encerrado será reaberto, possibilitando editar e criar novos dados no mesmo.
+![](/img/admin/admin-componente-iniciar-ano-letivo.png) | Iniciar ano letivo | Ao pressionar este botão, o ano letivo da escola será iniciado.
+![](/img/admin/admin-componente-editar-ano-letivo.png) | Editar ano letivo | Ao pressionar este botão, será aberto outro cadastro para serem informados os módulos do ano letivo.  
+![](/img/admin/admin-componente-finalizar-ano-letivo.png) | Finalizar ano letivo | Ao pressionar este botão, o ano letivo da escola será finalizado. Deve-se notar que é permitido finalizar um ano letivo desde que não exista mais nenhuma matrícula em andamento no ano.
+![](/img/admin/admin-componente-reabrir-ano-letivo.png) | Reabrir ano letivo | Ao pressionar este botão, o ano letivo já encerrado será reaberto, possibilitando editar e criar novos dados no mesmo.
 --- Ano Finalizado --- | Ano Finalizado | Esta informação é exibida após ter sido pressionar o botão **Finalizar Ano Letivo**.
 
 Quando um ano letivo é iniciado, o sistema realiza uma cópia das turmas que 
@@ -203,7 +203,7 @@ Tabelas de arredondamento
 Um exemplo de configuração de notas do tipo numéricas pode ser visualizado na 
 figura abaixo.
 
-![](../img/admin/admin-figura-10.png)
+![](/img/admin/admin-figura-10.png)
 
 > **Nota:** Caso o **Tipo da nota** seja **Nota conceitual**, na tabela será 
 exibido um campo chamado Descrição, o qual deve ser preenchido com uma 
@@ -273,7 +273,7 @@ promoção do aluno baseado nas notas e faltas depende da combinação dessas
 opções. Na figura abaixo é demonstrado o cadastro de uma regra de avaliação por 
 média e presença, e tipo de falta por componente curricular (disciplinas).
 
-![](../img/admin/admin-figura-11.png)
+![](/img/admin/admin-figura-11.png)
 
 No quadro a seguir consta o detalhamento de cada opção do cadastro de regras de 
 avaliação:
@@ -321,7 +321,7 @@ vistas em seguida, no cadastro **Séries da escola**.
 
 > **Localização:** Módulo Escola > Cadastros > Séries
 
-![](../img/admin/admin-figura-12.png)
+![](/img/admin/admin-figura-12.png)
 
 As principais opções do cadastro de séries/anos são detalhadas a seguir:
 
@@ -343,7 +343,7 @@ do aluno. O processo de matrícula de alunos será visto nos próximos capítulo
 
 > **Localização:** Módulo Escola > Cadastros > Componentes curriculares
 
-![](../img/admin/admin-figura-13.png)
+![](/img/admin/admin-figura-13.png)
 
 ## Como configurar as séries da escola
 
@@ -353,7 +353,7 @@ instituição, mas podendo também definir configurações específicas da escol
 
 > **Localização:** Módulo Escola > Cadastros > Séries da escola
 
-![](../img/admin/admin-figura-14.png)
+![](/img/admin/admin-figura-14.png)
 
 As principais opções encontradas no cadastro de Séries da escola estão 
 detalhadas a seguir:

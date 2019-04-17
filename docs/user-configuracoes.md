@@ -24,7 +24,7 @@ O cadastro de **Usuários**, propriamente dito, permite o cadastro dos usuários
 
 > **Localização:** Módulo Configurações > Permissões > Usuários
 
-![Formulário para editar permissão de acesso ao sistema, com os campos "Nome", "Tipo Usuário", "Instituição" e "Escola(s)"](../img/user-docs/user-figura-38-editar-usuario-acesso-sistema.png)
+![Formulário para editar permissão de acesso ao sistema, com os campos "Nome", "Tipo Usuário", "Instituição" e "Escola(s)"](/img/user-docs/user-figura-38-editar-usuario-acesso-sistema.png)
 
 ## Ferramentas
 

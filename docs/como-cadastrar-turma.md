@@ -16,6 +16,6 @@ sidebar_label: 25. Como Cadastrar Turma?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma turma, acesse o **Módulo Escola >> Cadastros >> Turmas >> Novo.**
 
-![Para cadastrar uma nova turma entre no Módulo Escola, entre em Cadastros, entre em Turma depois entre em Novo](../img/treinamento-gif/cadastrar_nova_turma.gif)
+![Para cadastrar uma nova turma entre no Módulo Escola, entre em Cadastros, entre em Turma depois entre em Novo](/img/treinamento-gif/cadastrar_nova_turma.gif)
 
 <p class="centerText">Animação 33 - Módulo Escola >> Cadastros >> Tipos >> Turmas >> Tipos de Turma >> Novo.</p>

@@ -14,7 +14,7 @@ Para as notas do tipo conceitual, no **Rótulo da nota** deverá ser informado u
 
 Um exemplo de configuração de notas do tipo numéricas pode ser visualizado na Figura 61.
 
-![Formulário para edição de tabela de arredondamento, com duas seções, como "Editar" e "Notas para arredondamento, sendo que na seção "Editar", com os campos "Instituição", "Nome" e "Tipo de nota" e na seção "Notas para arredondamento", com as colunas "Casa decimal", "Ação" e "Casa decimal exata"](../img/user-docs/user-figura-59-parcial-tabela-arredondamento.png)
+![Formulário para edição de tabela de arredondamento, com duas seções, como "Editar" e "Notas para arredondamento, sendo que na seção "Editar", com os campos "Instituição", "Nome" e "Tipo de nota" e na seção "Notas para arredondamento", com as colunas "Casa decimal", "Ação" e "Casa decimal exata"](/img/user-docs/user-figura-59-parcial-tabela-arredondamento.png)
 
 > **Nota:** Caso o **Tipo da nota** seja **Nota conceitual**, na tabela será exibido um campo chamado Descrição, o qual deve ser preenchido com uma informação relacionada ao rótulo da nota. Ex: Rótulo: *CP*. Descrição: *Completou*.
 
@@ -61,7 +61,7 @@ O cadastro de **Regras de avaliação** permite a configuração de parâmetros 
 
 Uma regra de avaliação possui diversas opções e o resultado da avaliação e promoção do aluno baseado nas notas e faltas depende da combinação dessas opções. Na Figura 62 é demonstrado o cadastro de uma regra de avaliação por média e presença, e tipo de falta por componente curricular (disciplinas).
 
-![Listagem de informações de regras de avaliação, com os campos "Nome", "Sistema de nota", "Tabela de arredondamento", "Progressão", "Média para promoção", "Média exame para promoção", "Fórmula de cálculo de média final", "Fórmula de cálculo de recuperação", "Porcentagem presença", "Parecer descritivo", "Tipo de presença", "Recuperação paralela", "Nota máxima", "Nota mínima", "Nota máxima para exame final" e "Número máximo de casas decimais"](../img/user-docs/user-figura-60-cadastro-regra-avaliacao-numerica.png)
+![Listagem de informações de regras de avaliação, com os campos "Nome", "Sistema de nota", "Tabela de arredondamento", "Progressão", "Média para promoção", "Média exame para promoção", "Fórmula de cálculo de média final", "Fórmula de cálculo de recuperação", "Porcentagem presença", "Parecer descritivo", "Tipo de presença", "Recuperação paralela", "Nota máxima", "Nota mínima", "Nota máxima para exame final" e "Número máximo de casas decimais"](/img/user-docs/user-figura-60-cadastro-regra-avaliacao-numerica.png)
 
 No quadro a seguir consta o detalhamento de cada opção do cadastro de regras de avaliação:
 
@@ -99,7 +99,7 @@ O lançamento das faltas e notas deve ser feito no menu de Lançamentos > **Falt
 
 > **Localização:** Módulo Escola > Lançamentos > Faltas e notas
 
-![Formulário de busca de faltas e notas, com os campos "Ano", "Instituição", "Escola", "Curso", "Série", "Turma", "Etapa", "Componente Curricular", "Matrícula" e "Navegação do curso(tab)", com botão "Carregar"](../img/user-docs/user-figura-61-busca-lancamento-faltas-notas.png)
+![Formulário de busca de faltas e notas, com os campos "Ano", "Instituição", "Escola", "Curso", "Série", "Turma", "Etapa", "Componente Curricular", "Matrícula" e "Navegação do curso(tab)", com botão "Carregar"](/img/user-docs/user-figura-61-busca-lancamento-faltas-notas.png)
 
 Após abrir o menu de lançamento de notas e faltas é necessário preencher os campos para carregar (selecionar) a turma que se deseja efetuar os lançamentos. Quando o usuário selecionar um componente (disciplina) serão listadas para lançamento todas as matrículas referentes ao componente selecionado.
 
@@ -107,8 +107,8 @@ Durante o processo de lançamento é possível visualizar no console de mensagen
 
 Para salvar uma informação, basta informar o valor de uma falta, nota ou parecer e sair do campo com a tecla **Tab** ou apontando com o mouse no próximo campo, que a informação será gravada automaticamente. Para navegar entre os campos, deve-se usar também a tecla **Tab** e para excluir uma informação, basta apagar o valor do campo e sair do campo.
 
-![Formulário para lançamento de notas e faltas definido por componente curricular, com colunas "Matrículas", "Aluno" e "Situação", com opções de "Nota" e "Falta" com valores específicos por aluno](../img/user-docs/user-figura-62-lancamento-faltas-notas.png)
+![Formulário para lançamento de notas e faltas definido por componente curricular, com colunas "Matrículas", "Aluno" e "Situação", com opções de "Nota" e "Falta" com valores específicos por aluno](/img/user-docs/user-figura-62-lancamento-faltas-notas.png)
 
 É possível também efetuar os lançamentos de todos os componentes (disciplinas) de uma matrícula. Para isso, não selecione nenhuma opção no campo **Componente** e no campo **Matrícula** selecione a matrícula desejada.
 
-![Formulário para lançamento de notas e falta para diversos componentes curriculares definido por matrícula](../img/user-docs/user-figura-63-disciplinas-matricula.png)
+![Formulário para lançamento de notas e falta para diversos componentes curriculares definido por matrícula](/img/user-docs/user-figura-63-disciplinas-matricula.png)

@@ -21,11 +21,11 @@ Neste cadastro é possível gerenciar os anos letivos das escolas. Ao abrir o ca
 
 > **Localização:** Módulo Escola > Cadastros > Escola > Selecionar escolar
 
-![Listagem de anos letivos de uma escola, com as colunas "Ano", "Iniciar", "Finalizar" e "Editar, com os anos expansívies para mais opções, opções como "Reabrir ano letivo", "Iniciar ano letivo", "Finalizar ano letivo" e "Editar ano letivo"](../img/user-docs/user-figura-40-listagem-anos-letivos.png)
+![Listagem de anos letivos de uma escola, com as colunas "Ano", "Iniciar", "Finalizar" e "Editar, com os anos expansívies para mais opções, opções como "Reabrir ano letivo", "Iniciar ano letivo", "Finalizar ano letivo" e "Editar ano letivo"](/img/user-docs/user-figura-40-listagem-anos-letivos.png)
 
 Ao pressionar o botão **Editar ano letivo** da Figura 40, uma nova página será apresentada conforme ilustrado na Figura 41.
 
-![Formulário para editar módulos cadastrados, com os campos "Módulo", "Data Inicial", "Data final", "Dias Letivos", "Ação", sendo que na opção "Ação há possibilidade de remove o item, com opção para "Adicionar novo" item, com botões "Salvar", "Excluir" e "Cancelar"](../img/user-docs/user-figura-41-modulos-cadastrados-ano-letivo.png)
+![Formulário para editar módulos cadastrados, com os campos "Módulo", "Data Inicial", "Data final", "Dias Letivos", "Ação", sendo que na opção "Ação há possibilidade de remove o item, com opção para "Adicionar novo" item, com botões "Salvar", "Excluir" e "Cancelar"](/img/user-docs/user-figura-41-modulos-cadastrados-ano-letivo.png)
 
 No exemplo da Figura 41, foram informados dois módulos semestrais e suas datas de início e fim. Para adicionar as etapas, basta selecionar o módulo desejado na opção **Módulo**, informar os períodos nas opções **Data inicial** e **Data final**, e a quantidade de Dias Letivos se o usuário desejar, e pressionar o botão **+ Adicionar novo** para inserir as outras etapas. Para concluir a operação, o usuário deve pressionar o botão **Salvar**.
 
@@ -41,7 +41,7 @@ Esta funcionalidade possibilitará o controle na inserção de faltas e notas do
 
 > **Localização:** Módulo Escola > Ferramentas > Parâmetros > Bloqueio do ano letivo
 
-![Formulário para bloqueio de ano letivo, com os campos "Instituição", "Ano", "Data inicial permitida" e "Data final permitida", com botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-42-bloqueio-ano-letivo.png)
+![Formulário para bloqueio de ano letivo, com os campos "Instituição", "Ano", "Data inicial permitida" e "Data final permitida", com botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-42-bloqueio-ano-letivo.png)
 
 Após salvar o cadastro, as faltas e notas dos alunos poderão ser inseridas e alteradas somente entre os dias da **Data inicial** e **Data Final** estabelecidas no bloqueio, e caso o usuário tente lançar fora do período, o sistema apresentará a seguinte mensagem no lançamento de notas: “*O lançamento de notas nessa instituição está bloqueado nesta data.*”
 
@@ -53,7 +53,7 @@ Diferentemente do **Bloqueio do ano letivo**, citado acima, o **Bloqueio de lan�
 
 Para habilitar este bloqueio em seu município ou somente na sua escola, basta você selecionar o botão *Novo* na listagem e preencher os campos obrigatórios, como podemos ver na figura abaixo:
 
-![Formulário para criação de novo bloqueio de ano letivo, com os campos "Ano", "Instituição", "Escola(s)", "Etapa", "Data inicial" e "Data final", com botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-43-bloqueio-ano-letivo.png)
+![Formulário para criação de novo bloqueio de ano letivo, com os campos "Ano", "Instituição", "Escola(s)", "Etapa", "Data inicial" e "Data final", com botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-43-bloqueio-ano-letivo.png)
 
 Após salvar o cadastro, as faltas e notas dos alunos poderão ser inseridas e alteradas somente entre os dias da **Data inicial** e **Data Final** estabelecidas na etapa e escolas inseridas no bloqueio, e caso o usuário tente lançar fora do período, o sistema apresentará a seguinte mensagem no lançamento de notas: “*O lançamento de notas nessa instituição está bloqueado nesta data.*”
 
@@ -67,7 +67,7 @@ No cadastro de **Calendários** é possível registrar informações por escola 
 
 Ao acessar o menu do cadastro, pode-se visualizar ou buscar por um calendário existente ou cadastrar um novo por meio do botão **Novo calendário letivo**, caso não exista nenhum.
 
-![Calendário do ano letivo, com anotações e marcações de anos letivos e não letivos](../img/user-docs/user-figura-44-calendario-letivo.png)
+![Calendário do ano letivo, com anotações e marcações de anos letivos e não letivos](/img/user-docs/user-figura-44-calendario-letivo.png)
 
 Quando um calendário é aberto, na parte superior do calendário é possível navegar entre os meses e anos letivos da escola. As datas no calendário são exibidas em cores diferenciadas. A cor rosa representa os dias que não contam como letivos (sábados, domingos, etc.), a azul os dias letivos e a laranja os dias extra letivos. Quando um dia for definido como não letivo no calendário, exibe a cor branca.
 
@@ -79,7 +79,7 @@ Estes eventos podem ser usados para identificar datas especiais onde não seria 
 
 Depois de inseridos os eventos, basta o usuário clicar em uma data no calendário e inserir por meio do botão **Dia Extra/Não Letivo** a informação desejada. O registro pode ser aplicado apenas a algumas determinadas turmas, como pode ser visto na Figura 45.
 
-![Formulário para inserção de dia letivo no calendário escolar, com campos "Dia", "Ano Letivo", "Calendário Dia Motivo", "Turmas" e "Descrição", com botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-45-insercao-dia-letivo-calendario.png)
+![Formulário para inserção de dia letivo no calendário escolar, com campos "Dia", "Ano Letivo", "Calendário Dia Motivo", "Turmas" e "Descrição", com botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-45-insercao-dia-letivo-calendario.png)
 
 Caso o usuário pressione o botão **Nova anotação**, será aberto um cadastro para anotação de informações daquela data. Quando uma anotação é inserida, no calendário é exibida a letra **A**, informando que para aquela data existe uma nota. Para visualizar a nota, basta passar o mouse sobre a data no calendário.
 
@@ -91,17 +91,17 @@ O processo de Matrícula está localizado no cadastro do aluno, onde logo na pá
 
 O histórico das matrículas do aluno é apresentado na Figura 48, onde como se pode ver, é possível visualizar o ano letivo, situação da matrícula, turma, série, curso, escola e também data de entrada e data de saída desta matrícula.
 
-![Listagem de matrículas de alunos, com colunas "Ano", "Situação", "Turma", "Enturmação anterior", "Série", "Curso", "Escola", "Entrada" e "Saída", com opção "Visualizar" para cada item da lista, com botões "Nova matrícula", "Atualizar histórico" e "Distribuição de uniforme"](../img/user-docs/user-figura-46-historico-matriculas-alunos.png)
+![Listagem de matrículas de alunos, com colunas "Ano", "Situação", "Turma", "Enturmação anterior", "Série", "Curso", "Escola", "Entrada" e "Saída", com opção "Visualizar" para cada item da lista, com botões "Nova matrícula", "Atualizar histórico" e "Distribuição de uniforme"](/img/user-docs/user-figura-46-historico-matriculas-alunos.png)
 
 Para efetuar uma nova matrícula, pressione o botão **Nova Matrícula** e preencha os dados do *Curso*, *Série*, *Turma*, *Ano de Destino* e *Data da Matrícula* como mostra a Figura 49.
 
-![Formulário para cadastro de aluno, com campos "Aluno", "Ano", "Instituição", "Escola", "Curso", "Série", "Turma" e "Data de matrícula", com opção "Matrícula de dependência", com botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-47-insercao-matricula-aluno.png)
+![Formulário para cadastro de aluno, com campos "Aluno", "Ano", "Instituição", "Escola", "Curso", "Série", "Turma" e "Data de matrícula", com opção "Matrícula de dependência", com botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-47-insercao-matricula-aluno.png)
 
 A enturmação de um aluno pode ser feita diretamente no ato da matrícula, informando a turma desejada no campo Turma.
 
 Para gerenciar o processo de cada matrícula, selecione a opção <u>Visualizar</u> na lista de matrículas do aluno e então algumas opções serão exibidas, como mostra a Figura 50 a seguir:
 
-![Lista de informações da matrícula de aluno, com campos "Número Matrícula", "Aluno", "Instituição", "Escola", "Curso", "Série", "Turma", "Data Enturmação", "Situação", "Formando", com botões "Cancelar matrícula", "Ocorrências disciplinares", "Dispensa de componentes curriculares", "Enturmar", "Turno", "Solicitar transferência", "Formando", "Abandono", "Falecido", "Reclassificar" e "Histórico de enturmações"](../img/user-docs/user-figura-48-gerenciar-matricula-aluno.png)
+![Lista de informações da matrícula de aluno, com campos "Número Matrícula", "Aluno", "Instituição", "Escola", "Curso", "Série", "Turma", "Data Enturmação", "Situação", "Formando", com botões "Cancelar matrícula", "Ocorrências disciplinares", "Dispensa de componentes curriculares", "Enturmar", "Turno", "Solicitar transferência", "Formando", "Abandono", "Falecido", "Reclassificar" e "Histórico de enturmações"](/img/user-docs/user-figura-48-gerenciar-matricula-aluno.png)
 
 Opção | Como funciona?
 ---|---
@@ -120,7 +120,7 @@ Histórico de enturmações | Esta opção permite que o usuário consulte todas
 
 Para um maior controle e posteriormente identificação dos motivos de abandono, é possível registrar no campo ‘Observações’ esta informação como mostra a Figura 51.
 
-![Formulário para inclusão de novo registro de abandono, com os campos "Aluno", "Motivo do abandono", "Data do abandono" e "Observação", com os botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-49-insercao-abandono-aluno.png)
+![Formulário para inclusão de novo registro de abandono, com os campos "Aluno", "Motivo do abandono", "Data do abandono" e "Observação", com os botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-49-insercao-abandono-aluno.png)
 
 > **Nota:** O processo de *Abandono*, assim como o de *Transferência*, poderá ser revertido, voltando na matrícula do aluno e selecionando '*Desfazer Abandono*'.
 
@@ -133,7 +133,7 @@ O processo de Matrícula relaciona um aluno com um curso, série em um determina
 O procedimento pode ser realizado tanto pelo menu de Movimentações > Enturmações em lote quanto diretamente no momento de efetuar a Matrícula. 
 Se o fizer pelo processo de Enturmação, ao acessar este cadastro serão exibidas todas as turmas cadastradas para série/ano e ao acessar o registro de uma turma na listagem, serão exibidos todos os alunos já enturmados nesta turma, e também os matriculados e não enturmados, que pertencem à mesma série/ano correspondente, e serão apresentados com uma opção para o usuário marcar ou não, conforme pode ser visualizado na Figura 52, para enturmar nesta turma, e ao clicar no botão **Salvar** estes alunos serão enturmados.
 
-![Formulário para escolha múltipla ou não de alunos para enturmação, com os campos "Instituição", "Escola", "Curso", "Série", "Turma" e "Ano", com listagem de alunos para serem selecionados, com botões "Salvar", "Cancelar" e "Copiar enturmações"](../img/user-docs/user-figura-50-selecao-enturmacao.png)
+![Formulário para escolha múltipla ou não de alunos para enturmação, com os campos "Instituição", "Escola", "Curso", "Série", "Turma" e "Ano", com listagem de alunos para serem selecionados, com botões "Salvar", "Cancelar" e "Copiar enturmações"](/img/user-docs/user-figura-50-selecao-enturmacao.png)
 
 Caso ao acessar uma turma na listagem e todos os alunos daquela série/ano já estiverem enturmados, será exibida uma mensagem informando o usuário desta situação.
 
@@ -145,7 +145,7 @@ A operação de Enturmação também poderá ser desfeita dentro da Matrícula d
 
 > **Localização:** Módulo Escola > Cadastros > Alunos > Selecionar Aluno > Visualizar Matrícula > Botão Enturmar
 
-![Formulário para alteração de turma de aluno, com informaçẽos "Nome do Aluno", "Escola", "Curso", "Série", "Turma selecionada", "Total de vagas", "Alunos enturmados" e "Vagas disponíveis", com campo "Enturmação atual", com botões "Remover (enturmação) da turmar selecionada", "Transferir para turma selecionada" e "Voltar"](../img/user-docs/user-figura-51-transferindo-aluno-turma.png)
+![Formulário para alteração de turma de aluno, com informaçẽos "Nome do Aluno", "Escola", "Curso", "Série", "Turma selecionada", "Total de vagas", "Alunos enturmados" e "Vagas disponíveis", com campo "Enturmação atual", com botões "Remover (enturmação) da turmar selecionada", "Transferir para turma selecionada" e "Voltar"](/img/user-docs/user-figura-51-transferindo-aluno-turma.png)
 
 > **Nota:** É importante salientar que as opções ‘**Remover (enturmação) da turma selecionada**' ou '**Enturmar na turma selecionada**' não são apresentadas na mesma página, sendo que a primeira é listada quando selecionada uma turma que o aluno já possuí vínculo, e a segunda em uma turma que o aluno ainda NÃO possui vínculo.
 
@@ -157,17 +157,17 @@ O processo de **Sequência de enturmação** está localizado no menu Cadastros 
 
 As sequências de enturmações definem o curso e a série/ano de origem e o curso e a série/ano de destino, conforme pode ser visualizado na Figura 54.
 
-![Listagem de sequências de enturmações, com as colunas "Curso Origem", "Série Origem", "Curso Destino", "Série Destino" e "Instituição"](../img/user-docs/user-figura-52-sequencias-enturmacoes.png)
+![Listagem de sequências de enturmações, com as colunas "Curso Origem", "Série Origem", "Curso Destino", "Série Destino" e "Instituição"](/img/user-docs/user-figura-52-sequencias-enturmacoes.png)
 
 O processo de **Rematrícula automática** está localizado no menu Movimentações e neste cadastro, basta o usuário selecionar a Escola, Curso, Série, Turma do ano anterior, Ano de Destino e Data da Matrícula. E por fim pressionar o botão **Salvar**.
 
 > **Localização:** Módulo Escola > Movimentações > Rematrícula automática
 
-![Formulário para registro de rematrícula automática, com os campos "Instituição", "Escola", "Curso", "Série", "Selecione a turma do ano anterior", "Ano destino" e "Data da matrícula", com o botão "Salvar"](../img/user-docs/user-figura-53-rematricula-automatica.png)
+![Formulário para registro de rematrícula automática, com os campos "Instituição", "Escola", "Curso", "Série", "Selecione a turma do ano anterior", "Ano destino" e "Data da matrícula", com o botão "Salvar"](/img/user-docs/user-figura-53-rematricula-automatica.png)
 
 Este procedimento rematriculará todos os alunos de uma determinada turma automaticamente no próximo ano letivo corrente da escola, como mostra a Figura 56.
 
-![Formulário para registro de rematrícula automática, com os campos "Instituição", "Escola", "Curso", "Série", "Selecione a turma do ano anterior", "Ano destino" e "Data da matrícula", com o botão "Salvar", com mensagem de sucesso informando sucesso na rematrícula](../img/user-docs/user-figura-54-rematricula-realizada.png)
+![Formulário para registro de rematrícula automática, com os campos "Instituição", "Escola", "Curso", "Série", "Selecione a turma do ano anterior", "Ano destino" e "Data da matrícula", com o botão "Salvar", com mensagem de sucesso informando sucesso na rematrícula](/img/user-docs/user-figura-54-rematricula-realizada.png)
 
 ## Histórico escolar
 
@@ -177,7 +177,7 @@ O processamento do Histórico escolar permite que sejam gerados os históricos e
 
 O processo consiste em 3 fases: filtragem dos dados, parametrização, e processamento dos históricos. Na Figura 57 é apresentado o formulário para filtragem dos dados a serem gerados.
 
-![Formulário para busca de histórico de aluno, com campos "Ano", "InstituiçãO", "Escola", "Curso", "Série", "Turma", "Matrícula", com opção "Processar somente históricos de dependências", com botão "Carregar"](../img/user-docs/user-figura-55-filtro-busca-historico.png)
+![Formulário para busca de histórico de aluno, com campos "Ano", "InstituiçãO", "Escola", "Curso", "Série", "Turma", "Matrícula", com opção "Processar somente históricos de dependências", com botão "Carregar"](/img/user-docs/user-figura-55-filtro-busca-historico.png)
 
 Conforme apresentado na Figura 57, o usuário tem a liberdade de executar o processamento de todos os alunos de uma escola, pois os campos obrigatórios são apenas **Ano**, **Instituição** e **Escola**, mas sugere-se que se efetue por **Turma**, em função da quantidade de informações a serem processadas.
 
@@ -203,11 +203,11 @@ Processar média geral dos alunos | Refere-se as turmas que utilizam uma média 
 
 Na Figura 58 é possível visualizar a parametrização já definida.
 
-![Formulário de configuração para realização de processamento de histórico escolar, com os campos "Quantidade dias letivos", "Grade curso", "Frequência", "Situação", "Disciplinas", "Notas", "Faltas" e "Observação", com opção "Excra curricular"](../img/user-docs/user-figura-56-configuracao-historico-escolar.png)
+![Formulário de configuração para realização de processamento de histórico escolar, com os campos "Quantidade dias letivos", "Grade curso", "Frequência", "Situação", "Disciplinas", "Notas", "Faltas" e "Observação", com opção "Excra curricular"](/img/user-docs/user-figura-56-configuracao-historico-escolar.png)
 
 Depois de efetuar a parametrização descrita anteriormente, basta selecionar os registros na listagem, ou clicar na opção **Selecionar todos**, e pressionar o botão **Processar** para iniciar o processamento dos históricos.
 
-![Listagem de alunos com histórico processado e não processado, com as colunas "Curso", "Série", "Turma", "Matrícula", "Aluno" e "Situação", com opção de seleção individual ou múltipla para cada aluno, com ações "Selecionar todos", "Processar" e "Remover"](../img/user-docs/user-figura-57-listagem-historico-alunos-processados-nao-processados.png)
+![Listagem de alunos com histórico processado e não processado, com as colunas "Curso", "Série", "Turma", "Matrícula", "Aluno" e "Situação", com opção de seleção individual ou múltipla para cada aluno, com ações "Selecionar todos", "Processar" e "Remover"](/img/user-docs/user-figura-57-listagem-historico-alunos-processados-nao-processados.png)
 
 Durante o processamento, o sistema mostra mensagens ao usuário em um console no canto inferior esquerdo da página, úteis para o usuário poder acompanhar o que está acontecendo naquele exato momento. Ao término do processamento o sistema atualizará a coluna **Situação** para cada aluno da listagem.
 
@@ -225,7 +225,7 @@ A opção está localizada no cadastro do aluno, em que por meio do botão **Atu
 
 Na Figura 60 é apresentada a tabela de inserção das disciplinas do histórico escolar.
 
-![Formulário para inserção de dados de forma manual para disciplinas e seus respectivos itens de forma numérica, com colunas "Nota", "Faltas", "C.H", "Ordem" e "Dependência", com opção "Adicionar novo" e remover cada disciplina da lista](../img/user-docs/user-figura-58-insercao-dados-avulsos-historico.png)
+![Formulário para inserção de dados de forma manual para disciplinas e seus respectivos itens de forma numérica, com colunas "Nota", "Faltas", "C.H", "Ordem" e "Dependência", com opção "Adicionar novo" e remover cada disciplina da lista](/img/user-docs/user-figura-58-insercao-dados-avulsos-historico.png)
 
 > **Nota:** ao cadastrar um histórico escolar o usuário deverá observar que caso a opção **Faltas globalizadas** seja marcada, um novo campo será exibido para a inserção do número total de faltas, dispensando a inserção das faltas por disciplina na tabela conforme demonstrado.
 

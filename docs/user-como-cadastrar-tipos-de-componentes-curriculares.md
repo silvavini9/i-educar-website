@@ -18,7 +18,7 @@ sidebar_label: 11. Como Cadastrar Tipos de Componentes Curriculares?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo.**
 
 
-![Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo](../img/user-docs/cadastrar_area_conhecimento.gif)
+![Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo](/img/user-docs/cadastrar_area_conhecimento.gif)
 
 
 <p class="centerText">Animação 17 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Área do conhecimento >> Novo.</p>
@@ -29,7 +29,7 @@ sidebar_label: 11. Como Cadastrar Tipos de Componentes Curriculares?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um tipo de dispensa, acesse o **Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa.**
 
-![Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo](../img/user-docs/cadastrar_tipo_dispensa.gif)
+![Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo](/img/user-docs/cadastrar_tipo_dispensa.gif)
 
 
 <p class="centerText small">Animação 18 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo.</p>
