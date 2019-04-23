@@ -66,6 +66,10 @@
       "faq": {
         "title": "faq"
       },
+      "user-analisar_notas_faltas": {
+        "title": "Analisar Notas e Faltas",
+        "sidebar_label": "Analisar Notas e Faltas"
+      },
       "user-ano-letivo-escolar-matriculas": {
         "title": "Ano Letivo Escolar e Matrículas"
       },
@@ -195,6 +199,10 @@
         "title": "Quais documentos posso gerar?",
         "sidebar_label": "38. Quais documentos posso gerar?"
       },
+      "user-quais_requisitos_para_finalizar_ano_letivo": {
+        "title": "Como Reservar Vagas?",
+        "sidebar_label": "Quais os Requisitos para Finalizar um Ano Letivo?"
+      },
       "user-quem_podera_ajudar": {
         "title": "Quem poderá me ajudar?",
         "sidebar_label": "2. Quem poderá me ajudar?"
@@ -230,7 +238,10 @@
     "categories": {
       "Documentação para Administradores": "Documentação para Administradores",
       "Documentação para Desenvolvedores": "Documentação para Desenvolvedores",
-      "Documentação para Usuários": "Documentação para Usuários"
+      "Sumário": "Sumário",
+      "Implantação": "Implantação",
+      "Inicio de Ano letivo": "Inicio de Ano letivo",
+      "Encerar Ano Letivo": "Encerar Ano Letivo"
     }
   },
   "pages-strings": {

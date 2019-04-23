@@ -24,6 +24,14 @@ article p {
     margin-bottom: 4%;
 }
 
+.small {
+    font-size: 14px;
+}
+
+.italic {
+    font-style: italic;
+}
+
 .bold {
     font-weight: 600;
 }

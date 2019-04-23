@@ -15,12 +15,15 @@
     ]
   },
   "user": {
-    "Documentação para Usuários": [
+    "Sumário": [
       "user-intro_manual",
       "apresentacao",
       "user-conhecendo_sistema",
       "user-quem_podera_ajudar",
-      "user-por_onde_comecar",
+      "user-por_onde_comecar"
+    ],
+
+    "Implantação": [
       "user-como_acessar_i-educar",
       "user-como_configurar_conta_de_acesso",
       "user-como_cadastrar_enderecos",
@@ -30,28 +33,36 @@
       "user-como-cadastrar-uma-escola",
       "user-como-cadastrar-tipos-de-componentes-curriculares",
       "user-como-cadastrar-componentes-curriculares",
-      "user-como-cadastrar-pessoas-fisicas-ou-juridicas",
-      "user-como-cadastrar-um-aluno",
-      "user-como-cadastrar-beneficios-projetos-de-aluno",
       "user-como-cadastrar-funcoes",
       "user-como-cadastrar-servidores",
-      "user-como-definir-ano-letivo",
       "como-configurar-anos-escolares",
       "como-cadastrar-um-calendario",
       "como-cadastrar-regras-de-avaliacao",
       "como-cadastrar-series",
       "como-cadastrar-series-na-escola",
-      "como-cadastrar-um-tipo-de-turma",
+      "como-cadastrar-um-tipo-de-turma"
+    ],
+    "Inicio de Ano letivo" : [
+      "user-como-definir-ano-letivo",
+      "como-cadastrar-um-calendario",
       "como-cadastrar-turma",
+      "user-como-cadastrar-pessoas-fisicas-ou-juridicas",
+      "user-como-cadastrar-um-aluno",
       "como-matricular-alunos",
+      "user-rematricula-automatica",
+      "user-como-realizar-enturmacoes",
+      "user-como-cadastrar-servidores",
+      "user-criar-quadro-horarios-turma",
+      "user-como-cadastrar-beneficios-projetos-de-aluno",
       "user-como_cadastrar_tipos_matriculas",
       "user-como_lancar_ocorrencia_disciplinares",
       "user-vincular-professor-turma",
-      "user-criar-quadro-horarios-turma",
-      "user-como-realizar-enturmacoes",
       "user-lancar-notas-faltas",
-      "user-rematricula-automatica",
-      "user-reservar-vagas",
+      "user-reservar-vagas"
+    ],
+    "Encerar Ano Letivo": [
+      "user-quais_requisitos_para_finalizar_ano_letivo",
+      "user-analisar_notas_faltas",
       "user-finalizar-ano-letivo",
       "user-como-emitir-relatorios",
       "user-gerar-historico-escolar",
