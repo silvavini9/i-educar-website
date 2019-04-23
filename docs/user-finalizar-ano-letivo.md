@@ -10,7 +10,7 @@ sidebar_label: 35. Como Finalizar um Ano Letivo?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ***Módulo Escola >> Escola >> Selecionar escola***, como exposto abaixo, é possível identificar o Ano letivo em que a escola se encontra, pode-se observar que os anos letivos que já se encontram fechados, estão com a opção ***Reabrir Ano Letivo***, e os anos em aberto, somente aparece a opção ***Editar Ano Letivo.***
 
-![Animação 42 - Módulo Escola >> Escola >> Selecionar escola](../img/user-docs/finalizar_ano_letivo.gif)
+![Animação 42 - Módulo Escola >> Escola >> Selecionar escola](/img/user-docs/finalizar_ano_letivo.gif)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para que o Ano letivo possa ser fechado faz-se necessário que a situação de todos os alunos da escola estejam diferentes de **cursando**, caso o botão fechar ano letivo não esteja aparecendo na tela apresentada acima, faça as verificações necessárias de todos os alunos que no sistema, possuem vínculo com a escola, para poder realizar o fechamento do ano letivo desejado.
 

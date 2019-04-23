@@ -11,7 +11,7 @@ No cadastro de **Tipos de ocorrências disciplinares**, você poderá cadastrar 
 
 > **Localização:** Módulo Escola > Cadastros > Tipos > Matrículas > Tipos de ocorrências disciplinares
 
-![Formulário para editar tipos de ocorrências disciplinares com os campos "Instituição", "Tipo de Ocorrência Disciplinar", "Descrição" e "Máximo Ocorrências", com botões "Salvar", "Excluir" e "Cancelar"](../img/user-docs/user-figura-15-tipos-ocorrencias-disciplinares.png)
+![Formulário para editar tipos de ocorrências disciplinares com os campos "Instituição", "Tipo de Ocorrência Disciplinar", "Descrição" e "Máximo Ocorrências", com botões "Salvar", "Excluir" e "Cancelar"](/img/user-docs/user-figura-15-tipos-ocorrencias-disciplinares.png)
 
 Neste cadastro, é possível informar o número máximo de ocorrências, o que significa que quando algum aluno atingir o máximo de ocorrências poderá ser emitido algum aviso aos responsáveis pelo aluno.
 
@@ -19,13 +19,13 @@ No cadastro de **Tipos de transferências** você poderá cadastrar os tipos de 
 
 > **Localização:** Módulo Escola > Cadastros > Tipos > Matrículas > Tipos de transferência
 
-![Formulário para editar tipos de transferẽncias com os campos "Instituição", "Motivo Transferẽncia" e "Descrição", com os botões "Salvar", "Excluir" e "Cancelar"](../img/user-docs/user-figura-16-tipos-transferencia.png)
+![Formulário para editar tipos de transferẽncias com os campos "Instituição", "Motivo Transferẽncia" e "Descrição", com os botões "Salvar", "Excluir" e "Cancelar"](/img/user-docs/user-figura-16-tipos-transferencia.png)
 
 E por fim, o cadastro de **Tipos de abandono** você poderá cadastrar os tipos de abandono que também serão utilizados posteriormente ao registrar o abandono do aluno. Exemplos de tipo de abandono: *Desistência*, *Falecimento*, *etc*.
 
 > **Localização:** Módulo Escola > Cadastros > Tipos > Matrículas > Tipos de abandono
 
-![Formulário para cadastro de desistência com campos "Instituição" e "Motivo Abandono", com botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-17-cadastro-desistencia.png)
+![Formulário para cadastro de desistência com campos "Instituição" e "Motivo Abandono", com botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-17-cadastro-desistencia.png)
 
 ## Instituição
 
@@ -37,7 +37,7 @@ No cadastro de instituições ainda é possível definir uma série de documenta
 
 Na nova tela, você deverá definir um título para o respectivo documento e anexá-lo por meio do botão **Escolha um arquivo**, por fim, o sistema irá carregar o documento e apresentá-lo abaixo com as opções de exclusão e visualização, conforme exemplo da Figura 18.
 
-![Formulário para inserção de documentação padrão com campos "Título" e "Documentação Padrão", opções para exclusão e visualização de "Lista de Materiais" e "Termo de Contrato", com botões "Salvar" e "Voltar"](../img/user-docs/user-figura-18-documentos-padroes.png)
+![Formulário para inserção de documentação padrão com campos "Título" e "Documentação Padrão", opções para exclusão e visualização de "Lista de Materiais" e "Termo de Contrato", com botões "Salvar" e "Voltar"](/img/user-docs/user-figura-18-documentos-padroes.png)
 
 Para que o usuário possa emitir estes documentos, basta ele acessar o módulo **Escola em Documentos > Documentação padrão**.
 
@@ -49,7 +49,7 @@ Neste cadastro você poderá cadastrar os cursos oferecidos pela instituição d
 
 > **Localização:** Módulo Escola > Cadastros > Cursos
 
-![Lista de detalhes de curso com os campos "Instituição", "Nível Ensino", "Tipo Ensino", "Curso", "Quantidade Etapas", "Hora/Falta", "Carga Horária" e "Padrão Ano Escolar", com botões "Novo", "Editar" e "Voltar"](../img/user-docs/user-figura-19-curso-cadastrado.png)
+![Lista de detalhes de curso com os campos "Instituição", "Nível Ensino", "Tipo Ensino", "Curso", "Quantidade Etapas", "Hora/Falta", "Carga Horária" e "Padrão Ano Escolar", com botões "Novo", "Editar" e "Voltar"](/img/user-docs/user-figura-19-curso-cadastrado.png)
 
 As principais opções do cadastro de cursos são detalhadas a seguir:
 
@@ -66,16 +66,16 @@ Neste cadastro você poderá cadastrar todas as escolas da rede municipal de ens
 
 > **Localização:** Módulo Escola > Cadastros > Escolas
 
-![Lista de detalhes de uma escola cadastrada com os campos "Instituição", "Escola", "Sigla", "Localização", "CEP", "Bairro", "Tipo Logradouro", "Logradouro", "Complemento", "Telefone", "Curso", informações condensadas de anos letivos, com opções "Iniciar", "Finalizar" e "Editar"](../img/user-docs/user-figura-20-detalhes-escola-cadastrada.png)
+![Lista de detalhes de uma escola cadastrada com os campos "Instituição", "Escola", "Sigla", "Localização", "CEP", "Bairro", "Tipo Logradouro", "Logradouro", "Complemento", "Telefone", "Curso", informações condensadas de anos letivos, com opções "Iniciar", "Finalizar" e "Editar"](/img/user-docs/user-figura-20-detalhes-escola-cadastrada.png)
 
 As principais opções e/ou componentes do cadastro de escolas são detalhadas a seguir:
 
 Componente | Descrição | Como funciona?
 ---|---|---
-![Botão iniciar ano letivo](../img/user-docs/user-componente-iniciar-ano-letivo.png) | Iniciar ano letivo | Ao pressionar este botão, o ano letivo da escola será iniciado.
-![Botão editar ano letivo](../img/user-docs/user-componente-editar-ano-letivo.png) | Editar ano letivo | Ao pressionar este botão, será aberto outro cadastro para serem informados os módulos do ano letivo. (Veja mais detalhes no Capítulo VII).
-![Botão finalizar ano letivo](../img/user-docs/user-componente-finalizar-ano-letivo.png) | Finalizar ano letivo | Ao pressionar este botão, o ano letivo da escola será finalizado. Deve-se notar que é permitido finalizar um ano letivo desde que não exista mais nenhuma matrícula em andamento no ano.
-![Botão reabrir ano letivo](../img/user-docs/user-componente-reabrir-ano-letivo.png) | Reabrir ano letivo | Ao pressionar este botão, o ano letivo já encerrado será reaberto, possibilitando editar e criar novos dados no mesmo.
+![Botão iniciar ano letivo](/img/user-docs/user-componente-iniciar-ano-letivo.png) | Iniciar ano letivo | Ao pressionar este botão, o ano letivo da escola será iniciado.
+![Botão editar ano letivo](/img/user-docs/user-componente-editar-ano-letivo.png) | Editar ano letivo | Ao pressionar este botão, será aberto outro cadastro para serem informados os módulos do ano letivo. (Veja mais detalhes no Capítulo VII).
+![Botão finalizar ano letivo](/img/user-docs/user-componente-finalizar-ano-letivo.png) | Finalizar ano letivo | Ao pressionar este botão, o ano letivo da escola será finalizado. Deve-se notar que é permitido finalizar um ano letivo desde que não exista mais nenhuma matrícula em andamento no ano.
+![Botão reabrir ano letivo](/img/user-docs/user-componente-reabrir-ano-letivo.png) | Reabrir ano letivo | Ao pressionar este botão, o ano letivo já encerrado será reaberto, possibilitando editar e criar novos dados no mesmo.
 --- Ano Finalizado --- | Ano Finalizado | Esta informação é exibida após ter sido pressionar o botão **Finalizar Ano Letivo**.
 
 Quando um ano letivo é iniciado, o sistema realiza uma cópia das turmas que foram cadastradas para o ano letivo que será iniciado. Sendo assim, as turmas serão duplicadas no cadastro de turmas, sendo necessário renomear as turmas que farão parte do novo ano letivo.
@@ -86,7 +86,7 @@ Neste cadastro você poderá cadastrar novos alunos, controlar seus dados, respo
 
 > **Localização:** Módulo Escola > Cadastros > Alunos
 
-![Lista de informações parciais de cadastro de aluno no modo edição com os campos "Foto", "Código aluno", "Código INEP", "Código rede estadual", "Código Sistema", "Pessoa", "Data de nascimento", "RG / Data emissão", "CPF", "Justificativa para a falta de documentação" e "Tipo certidão civil"](../img/user-docs/user-figura-21-parcial-cadastro-aluno.png)
+![Lista de informações parciais de cadastro de aluno no modo edição com os campos "Foto", "Código aluno", "Código INEP", "Código rede estadual", "Código Sistema", "Pessoa", "Data de nascimento", "RG / Data emissão", "CPF", "Justificativa para a falta de documentação" e "Tipo certidão civil"](/img/user-docs/user-figura-21-parcial-cadastro-aluno.png)
 
 Ao selecionar a opção <u>Cadastrar Pessoa</u> ou <u>Editar pessoa</u>, se estiver editando um aluno, uma janela de cadastro rápido será aberta, como mostra a Figura 22. Você deverá preencher os *Dados Básicos* e os *Dados do endereço*  do aluno.
 
@@ -94,11 +94,11 @@ Caso não consiga localizar os dados de endereço na busca (lupa ou digitando di
 
 Após ter alterado ou informado os dados para um novo aluno, pressione o botão **Gravar** e será exibida novamente uma tela similar a apresentada na Figura 21.
 
-![Formulário para cadastro rápido de alunos com abas "Ficha médica", "Moradia", "Recursos prova INEP" e "Projetos", com os campos "Nome", Sexo", "Estado civil", "Data de nascimento", "Telefone", "Celular", "Naturalidade", "Dados do endereço", "CEP", "Município", "Distrito", "Logradouro", "Bairro", "Complemento", "Número", "Letra", "Número do apartamento", "Bloco" e "Andar"](../img/user-docs/user-figura-22-cadastro-rapido-aluno.png)
+![Formulário para cadastro rápido de alunos com abas "Ficha médica", "Moradia", "Recursos prova INEP" e "Projetos", com os campos "Nome", Sexo", "Estado civil", "Data de nascimento", "Telefone", "Celular", "Naturalidade", "Dados do endereço", "CEP", "Município", "Distrito", "Logradouro", "Bairro", "Complemento", "Número", "Letra", "Número do apartamento", "Bloco" e "Andar"](/img/user-docs/user-figura-22-cadastro-rapido-aluno.png)
 
 O mesmo processo realizado para o aluno poderá ser realizado para o Pai e Mãe do aluno, entretanto, diferentemente do cadastro/edição do nome do aluno, a janela exibirá menos informações. Caso desejar informar mais detalhes, selecione a opção <u>Cadastro detalhado</u>, como mostra a Figura 23.
 
-![Formulário para cadastro rápido de pai ou mãe com os campos "Nome", "Sexo", "Estado civil", "Data de nascimento", "Falecido", com opção "Cadastro detalhado", botões "Gravar" e "Cancelar"](../img/user-docs/user-figura-23-pai-mae-rapido.png)
+![Formulário para cadastro rápido de pai ou mãe com os campos "Nome", "Sexo", "Estado civil", "Data de nascimento", "Falecido", com opção "Cadastro detalhado", botões "Gravar" e "Cancelar"](/img/user-docs/user-figura-23-pai-mae-rapido.png)
 
 Quando a opção de cadastro detalhado for selecionada, uma outra página de cadastro com informações mais detalhadas ira abrir em uma nova aba ou janela do navegador. Ao preencher as informações desejadas e pressionar o botão **Gravar** a aba ou janela será automaticamente fechada e retornará para a tela de cadastro do aluno, com as informações atualizadas.
 
@@ -119,7 +119,7 @@ O sistema também traz a inovação de gravar fotos no cadastro dos alunos, que 
 
 Para cadastrar uma foto, use a opção **Escolha um arquivo**, selecione o arquivo de foto desejado e confirme. Após gravar, o resultado será similar ao apresentado na Figura 24, tanto em modo cadastro em Pessoa Física quanto na exibição/edição no cadastro de alunos.
 
-![Formulário para alteração de foto de aluno com exibição de foto atual de exemplo, com os campos "Foto atual", "Excluir a foto" e "Trocar foto", com botão "Escolha um arquivo"](../img/user-docs/user-figura-24-edicao-foto-aluno-pessoa-fisica.png)
+![Formulário para alteração de foto de aluno com exibição de foto atual de exemplo, com os campos "Foto atual", "Excluir a foto" e "Trocar foto", com botão "Escolha um arquivo"](/img/user-docs/user-figura-24-edicao-foto-aluno-pessoa-fisica.png)
 
 > **Nota:** Recomenda-se o uso de imagens nos formatos **jpg**, **jpeg**, **png** e **gif**, com tamanho máximo de **150KB**, garantindo assim qualidade de imagem e alta performance no upload e exibição da foto.
 
@@ -133,7 +133,7 @@ Entretanto, para que o usuário possua autonomia de corrigir estes dados, sem te
 
 > **Localização:** Módulo Escola > Ferramentas > Unificações > Unificação de alunos
 
-![Formulário para unificiação de alunos duplicados com os campos "Ano", "Instituição", "Escola", "Aluno principal", "Aluno duplicado" com a identificação dele, opções de "Excluir referência de aluno duplicado" e "Adicionar Novo", botão "Unificar"](../img/user-docs/user-figura-25-unificando-aluno-duplicado.png)
+![Formulário para unificiação de alunos duplicados com os campos "Ano", "Instituição", "Escola", "Aluno principal", "Aluno duplicado" com a identificação dele, opções de "Excluir referência de aluno duplicado" e "Adicionar Novo", botão "Unificar"](/img/user-docs/user-figura-25-unificando-aluno-duplicado.png)
 
 Na tela de unificação, o usuário deverá preencher o campo **Aluno principal** com o aluno que será mantido no sistema, pesquisando por nome ou código, e na tabela **Aluno duplicado**, inserir todos os demais cadastros do respectivo aluno, para unificação dos dados. Ao clicar no botão **Salvar**, todas as matrículas e históricos dos cadastros duplicados serão migradas para o aluno definido como principal, excluindo os demais registros.
 
@@ -143,7 +143,7 @@ Neste cadastro você poderá cadastrar as disciplinas que poderão ser lecionada
 
 > **Localização:** Módulo Escola > Cadastros > Componentes curriculares
 
-![Formulário para edição de disciplina no cadastro de componentes curriculares, com os campos "Instituição", "Nome", "Nome abreviado", "Base curricular", "Áreas conhecimento", "Disciplina Educasenso" e "Ordem de apresentação", botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-26-editar-disciplina-componente-curricular.png)
+![Formulário para edição de disciplina no cadastro de componentes curriculares, com os campos "Instituição", "Nome", "Nome abreviado", "Base curricular", "Áreas conhecimento", "Disciplina Educasenso" e "Ordem de apresentação", botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-26-editar-disciplina-componente-curricular.png)
 
 O cadastro de **Tipos de dispensa** permite cadastrar motivos pelos quais determinados alunos podem ser dispensados de uma disciplina. No cadastro, basta informar uma descrição e no processo de matrícula, que será explicado em breve, poderá ser utilizada a opção **Dispensa de componentes curriculares** para dispensar um aluno, por um destes motivos pré-cadastrados, de uma determinada disciplina.
 
@@ -155,7 +155,7 @@ No cadastro **Séries** você poderá cadastrar todas as séries – ou anos esc
 
 > **Localização:** Módulo Escola > Cadastros > Séries
 
-![Formulário para edição de ano escolar no cadastro de séries, com os campos "Instituição", "Curso", "Série", "Etapa Curso", "Regra de avaliação", "Regra de avaliação diferenciada", "Concluente", "Carga Horária", "Dias letivos", "Idade padrão", "Faixa etária" e "Observação histórico", opções "Exibir alerta ao tentar matricular alunos fora da faixa etária da série/ano", "Bloquear matrículas de alunos fora da faixa etária da série/ano" e "Exigir INEP para a matrícula", botões "Salvar", "Excluir" e "Cancelar"](../img/user-docs/user-figura-27-editando-ano-escolar-cadastro-series.png)
+![Formulário para edição de ano escolar no cadastro de séries, com os campos "Instituição", "Curso", "Série", "Etapa Curso", "Regra de avaliação", "Regra de avaliação diferenciada", "Concluente", "Carga Horária", "Dias letivos", "Idade padrão", "Faixa etária" e "Observação histórico", opções "Exibir alerta ao tentar matricular alunos fora da faixa etária da série/ano", "Bloquear matrículas de alunos fora da faixa etária da série/ano" e "Exigir INEP para a matrícula", botões "Salvar", "Excluir" e "Cancelar"](/img/user-docs/user-figura-27-editando-ano-escolar-cadastro-series.png)
 
 As principais opções do cadastro de séries/anos são detalhadas a seguir:
 
@@ -170,13 +170,13 @@ Depois de cadastradas as séries/anos padrões do curso, deverão ser configurad
 
 Ao acessar uma disciplina da listagem, exibirá um botão chamado **Configurar anos escolares**, e ao pressioná-lo, será aberto o modo de edição conforme ilustrado na Figura 28.
 
-![Formulário para editar anos escolas na disciplina de matemática, com os campos "Ensino Fundamental de 9 anos", incluindo a carga horária para cada ano, por exemplo "Primeiro ano", "Segundo ano" e assim por diante](../img/user-docs/user-figura-28-editar-anos-escolas-disciplina-matematica.png)
+![Formulário para editar anos escolas na disciplina de matemática, com os campos "Ensino Fundamental de 9 anos", incluindo a carga horária para cada ano, por exemplo "Primeiro ano", "Segundo ano" e assim por diante](/img/user-docs/user-figura-28-editar-anos-escolas-disciplina-matematica.png)
 
 No cadastro de **Séries da escola** você poderá cadastrar todas as séries de uma escola, a qual herda as informações do cadastro de séries/anos padrões da instituição, mas podendo também definir configurações específicas da escola.
 
 > **Localização:** Módulo Escola > Cadastros > Séries da escola
 
-![Formulário para edição de ano escolar no cadastro de séries da escola, com os campos "Instituição", "Escola", "Curso", "Série", "Hora Inicial", "Hora Final", "Hora Início Intervalo" e "Hora Fim Intervalo", com opções "Bloquear enturmação após atingir limite de vagas", "Bloquear cadastro de novas turmas antes de atingir limite de vagas (no mesmo turno)"](../img/user-docs/user-figura-29-editar-ano-escolar-series-escola.png)
+![Formulário para edição de ano escolar no cadastro de séries da escola, com os campos "Instituição", "Escola", "Curso", "Série", "Hora Inicial", "Hora Final", "Hora Início Intervalo" e "Hora Fim Intervalo", com opções "Bloquear enturmação após atingir limite de vagas", "Bloquear cadastro de novas turmas antes de atingir limite de vagas (no mesmo turno)"](/img/user-docs/user-figura-29-editar-ano-escolar-series-escola.png)
 
 As principais opções encontradas no cadastro de Séries da escola estão detalhadas a seguir:
 
@@ -193,7 +193,7 @@ No cadastro **Infraestrutura** você poderá cadastrar todas as informações re
 
 > **Localização:** Módulo Escola > Cadastros > Infraestrutura
 
-![Formulário para editar dados de um cômodo, com os campos "Instituição", "Escola", "Prédio", "Tipo de ambiente", "Ambiente", "Área m²" e "Descrição do ambiente", com os botões "Salvar" e "Cancelar"](../img/user-docs/user-figura-30-editar-dados-comodo.png)
+![Formulário para editar dados de um cômodo, com os campos "Instituição", "Escola", "Prédio", "Tipo de ambiente", "Ambiente", "Área m²" e "Descrição do ambiente", com os botões "Salvar" e "Cancelar"](/img/user-docs/user-figura-30-editar-dados-comodo.png)
 
 Em **Cadastros > Tipos > Infraestrutura** é possível ainda cadastrar os prédios, funções dos ambientes do prédio e os próprios ambientes. Estes cadastros são detalhados a seguir:
 
@@ -209,7 +209,7 @@ Neste cadastro você poderá informar os dados das turmas do ano letivo corrente
 
 > **Localização:** Módulo Escola > Cadastros > Turmas
 
-![Formulário de edição de turmas, com os campos "Instituição", "Escola", "Curso", "Série", "Ano letivo", "Sala", "Professor/Regente", "Tipo de turma", "Turma", "Sigla", "Máximo de Alunos" e "Disciplina dispensada", opções "Ativo" e "Multi-Seriada", na segunda seção com os campos "Hora Inicial", "Hora Final", "Hora Início Intervalo", "Hora Fim Intervalo", "Turno" e "Modelo relatório boletim"](../img/user-docs/user-figura-31-editar-cadastro-turmas.png)
+![Formulário de edição de turmas, com os campos "Instituição", "Escola", "Curso", "Série", "Ano letivo", "Sala", "Professor/Regente", "Tipo de turma", "Turma", "Sigla", "Máximo de Alunos" e "Disciplina dispensada", opções "Ativo" e "Multi-Seriada", na segunda seção com os campos "Hora Inicial", "Hora Final", "Hora Início Intervalo", "Hora Fim Intervalo", "Turno" e "Modelo relatório boletim"](/img/user-docs/user-figura-31-editar-cadastro-turmas.png)
 
 As principais opções do cadastro de **Turmas** são encontradas na aba Dados gerais, e serão detalhadas a seguir:
 
@@ -233,6 +233,6 @@ Na opção de **Reclassificação**, quando selecionada, o sistema realizará a 
 
 Já a opção de **Editar a sequência dos alunos**, quando selecionada, o usuário será redirecionado a uma listagem com o nome de todos os alunos, sendo possível inserir a ordem de cada um de forma manual, como apresenta a imagem abaixo:
 
-![Formulário com lista de alunos e campos numéricos para ordenação dos alunos](../img/user-docs/user-figura-32-reordenando-alunos-turma.png)
+![Formulário com lista de alunos e campos numéricos para ordenação dos alunos](/img/user-docs/user-figura-32-reordenando-alunos-turma.png)
 
 > **Nota:** Sempre que uma turma for descontinuada, opte por não excluir a mesma. O campo **Ativo**, quando desmarcado, deve resolver a situação. Após desmarcar o campo **Ativo** na turma desejada, a mesma não será mais listada nas opções de enturmação, nem mesmo nos relatórios.

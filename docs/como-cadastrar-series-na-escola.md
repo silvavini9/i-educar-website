@@ -14,6 +14,6 @@ sidebar_label: 23. Como Cadastrar Séries na Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de séries na escola, acesse o **Módulo Escola >> Cadastros >> Séries na Escola >> Novo.**
 
-![Para cadastrar uma Nova Série na escola entre no Módulo Escola, entre em Cadastros, entre em Séries da Escola e entre em Novo](../img/treinamento-gif/cadastrar_series_na_escola.gif)
+![Para cadastrar uma Nova Série na escola entre no Módulo Escola, entre em Cadastros, entre em Séries da Escola e entre em Novo](/img/treinamento-gif/cadastrar_series_na_escola.gif)
 
 <p class="centerText">Animação 32 - Módulo Escola >> Cadastros >> Séries na Escola >> Novo.</p>

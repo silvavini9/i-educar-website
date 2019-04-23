@@ -9,6 +9,6 @@ sidebar_label: 32. Como lançar notas e faltas?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o lançamento de notas e faltas, acesse o **Módulo Escola >> Lançamentos >> Faltas e Notas.**
 
-![Animação 40 - Módulo Escola >> Lançamentos >> Faltas e Notas.](../img/user-docs/lancar_faltas_notas.gif)
+![Animação 40 - Módulo Escola >> Lançamentos >> Faltas e Notas.](/img/user-docs/lancar_faltas_notas.gif)
 
 </div>

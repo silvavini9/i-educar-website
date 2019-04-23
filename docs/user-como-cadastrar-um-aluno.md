@@ -13,7 +13,7 @@ sidebar_label: 14. Como Cadastrar um Aluno?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o cadastro de pessoa, finalize o cadastro do aluno com o restante dos dados.
 
 
-![Módulo Escola >> Cadastros >> Alunos >> Novo](../img/user-docs/cadastrar_pessoa_via_aluno.gif)
+![Módulo Escola >> Cadastros >> Alunos >> Novo](/img/user-docs/cadastrar_pessoa_via_aluno.gif)
 
 <p class="centerText">Animação 22 - Módulo Escola >> Cadastros >> Alunos >> Novo.</p>
 
@@ -27,7 +27,7 @@ sidebar_label: 14. Como Cadastrar um Aluno?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora, digite o nome e o CPF da pessoa e acesse o botão ***Buscar***. Caso o cadastro for encontrado no sistema, loga abaixo dos campos de busca você poderá acessar os dados da **pessoa física** buscada.
 
-![Módulo Pessoas >> Cadastros >> Pessoas Física](../img/user-docs/buscar_pessoa_via_pessoa_fisica.gif)
+![Módulo Pessoas >> Cadastros >> Pessoas Física](/img/user-docs/buscar_pessoa_via_pessoa_fisica.gif)
 
 <p class="centerText">Animação 23 - Módulo Pessoas >> Cadastros >> Pessoas Física.</p>
 
@@ -42,7 +42,7 @@ sidebar_label: 14. Como Cadastrar um Aluno?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Durante o preenchimento dos dados do novo aluno, atente-se para a necessidade do preenchimento dos dados de parentesco (**Pessoa Pai e Pessoa Mãe**). Em ambos campos de parentesco, você notará a presença de um link de acesso denominado **Cadastrar pessoa**. Apesar destes campos não serem obrigatórios para o cadastramento de uma nova pessoa, é importante preenchê-los no caso de pessoas físicas que são alunos. 
 
 
-![Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo](../img/user-docs/cadastrar_pessoa_fisica.gif)
+![Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo](/img/user-docs/cadastrar_pessoa_fisica.gif)
 
 <p class="centerText">Animação 24 - Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo.</p>
 
@@ -62,6 +62,6 @@ sidebar_label: 14. Como Cadastrar um Aluno?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para unificar alunos acesse o **Módulo Escola >> Ferramentas >> Unificações >> Unificações de Alunos.**
 
-![Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo](../img/user-docs/unificação_alunos.gif)
+![Módulo Pessoas >> Cadastros >> Pessoa Física >> Novo](/img/user-docs/unificação_alunos.gif)
 
 <p class="centerText">Animação 25 - Módulo Escola >> Ferramentas >> Unificações >> Unificações de Alunos.   </p>

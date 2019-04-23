@@ -11,6 +11,6 @@ sidebar_label: 33. Como Realizar Rematrícula Automática?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para realizar rematrícula automática, acesse o **Módulo Escola >> Movimentações >> Rematrícula Automática >> Realizar Operações >> Salvar.**
 
 
-![Animação 41 - Módulo Escola >> Movimentações >> Rematrícula Automática >> Realizar Operações >> Salvar.](../img/user-docs/rematricula_automatica.gif)
+![Animação 41 - Módulo Escola >> Movimentações >> Rematrícula Automática >> Realizar Operações >> Salvar.](/img/user-docs/rematricula_automatica.gif)
 
 </div>

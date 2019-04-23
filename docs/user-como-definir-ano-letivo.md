@@ -8,6 +8,6 @@ sidebar_label: 18. Como Definir Ano Letivo?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Definir um Ano Letivo, basta ir no **Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo**.
 
-![Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo](../img/user-docs/definir_ano_letivo.gif)
+![Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo](/img/user-docs/definir_ano_letivo.gif)
 
 <p class="centerText">Animação 27 - Módulo Escola >> Cadastros >> Escola >> Selecionar Escola >> Definir Ano Letivo.</p>

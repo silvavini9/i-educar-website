@@ -11,7 +11,7 @@ Neste cadastro o usuário registrará todos os funcionários da rede municipal, 
 
 > **Localização:** Módulo Servidores > Cadastros > Servidores
 
-![Fomulário para busca de servidores, com os campos "Instituição", "Escola", "Ano letivo", "Nome do servidor" e "Matrícula", com opção "Incluir servidores sem alocação", com botão "Buscar", gerando lista de servidores buscados abaixo com as colunas "Nome do Servidor" e "Matrícula", numeração abaixo para navegar dentre diversas páginas do retorno da busca](../img/user-docs/user-figura-33-listagem-servidores.png)
+![Fomulário para busca de servidores, com os campos "Instituição", "Escola", "Ano letivo", "Nome do servidor" e "Matrícula", com opção "Incluir servidores sem alocação", com botão "Buscar", gerando lista de servidores buscados abaixo com as colunas "Nome do Servidor" e "Matrícula", numeração abaixo para navegar dentre diversas páginas do retorno da busca](/img/user-docs/user-figura-33-listagem-servidores.png)
 
 Neste cadastro, é necessário o servidor ter sido previamente cadastrado em Pessoa física, sendo o único vínculo obrigatório do mesmo, e caso o servidor tenha acesso ao i-Educar, como os usuários da secretaria da unidade escolar, então será feito um cadastro em **Configurações > Permissões > Usuários**.
 
@@ -20,7 +20,7 @@ Neste cadastro, é necessário o servidor ter sido previamente cadastrado em Pes
 
 O cadastro de **Servidores** é o cadastro centralizador da gestão dos servidores no sistema. É neste cadastro que serão controladas a carga horária de cada servidor, avaliações de desempenho, faltas e atrasos, e outras informações pertinentes.
 
-![Formulário para cadastro de novos servidores, com abas "Dados gerais" e "Dados adicionais", com os campos "Instituição", "Pessoa", "Código INEP" e "Deficiências", seção para "Funções Servidor", com campos "Função", "Componentes Curriculares", "Cursos" e "Matrícula", com opções para remover e adicionar novo registro de função, incluindo campos de "Carga Horária" e "Multi-seriado", com botões "Salvar", "Excluir" e "Cancelar"](../img/user-docs/user-figura-34-cadastrando-servidores.png)
+![Formulário para cadastro de novos servidores, com abas "Dados gerais" e "Dados adicionais", com os campos "Instituição", "Pessoa", "Código INEP" e "Deficiências", seção para "Funções Servidor", com campos "Função", "Componentes Curriculares", "Cursos" e "Matrícula", com opções para remover e adicionar novo registro de função, incluindo campos de "Carga Horária" e "Multi-seriado", com botões "Salvar", "Excluir" e "Cancelar"](/img/user-docs/user-figura-34-cadastrando-servidores.png)
 
 Ao cadastrar um novo servidor o sistema solicitará algumas informações, como as funções do mesmo. Nesta situação caso a função seja de professor(a), será necessário informar também quais Componentes Curriculares (disciplinas) e Cursos o servidor poderá lecionar, por meio das lupas no quadro Funções Servidor, como pode ser visto na Figura 34. A opção carga horária também é obrigatória, pois este valor é controlado no momento da alocação dos servidores nas turmas do ano letivo.
 
@@ -28,7 +28,7 @@ Além dos campos da aba Dados gerais, na aba Dados adicionais será possível in
 
 Ao editar as informações de um servidor que já tenha sido alocado para trabalhar em alguma escola, o sistema demonstrará qual a carga horária utilizada e em qual período e escola consta esta alocação, conforme demonstrado na Figura 35.
 
-![Listagem com detalhes de servidor, com as informações "Servidor", "Nome", "Matrícula", "Código Educasenso/Inep", "Instituição", "Escolaridade", "Multi-seriado", "Função" com seus detalhes, "Carga Horária" e "Horários de Trabalho"](../img/user-docs/user-figura-35-exibindo-detalhes-de-um-servidor.png)
+![Listagem com detalhes de servidor, com as informações "Servidor", "Nome", "Matrícula", "Código Educasenso/Inep", "Instituição", "Escolaridade", "Multi-seriado", "Função" com seus detalhes, "Carga Horária" e "Horários de Trabalho"](/img/user-docs/user-figura-35-exibindo-detalhes-de-um-servidor.png)
 
 Quando o cadastro de um servidor é aberto para edição, é exibida uma série de opções de gerenciamento, as quais são detalhadas a seguir:
 
@@ -52,7 +52,7 @@ Estas funções serão utilizadas no momento do cadastro de um servidor, o qual 
 
 > **Localização:** Módulo Servidores > Cadastros > Tipos > Categoria ou níveis
 
-![Formulário de cadastros dos níveis e subníveis dos servidores, com campos "Nome Subnível", "Salário" e "Ordem", com opção para remoção do subnível e adição de novo subnível, com botão "Salvar"](../img/user-docs/user-figura-36-cadastro-de-niveis-subniveis-de-um-servidor.png)
+![Formulário de cadastros dos níveis e subníveis dos servidores, com campos "Nome Subnível", "Salário" e "Ordem", com opção para remoção do subnível e adição de novo subnível, com botão "Salvar"](/img/user-docs/user-figura-36-cadastro-de-niveis-subniveis-de-um-servidor.png)
 
 ## Escolaridade e Motivos de afastamento
 
@@ -74,6 +74,6 @@ Com estas informações, o controle de carga horária dos servidores é mais efi
 
 > **Localização:** Módulo Servidores > Cadastros > Quadro de horários
 
-![Calendário com divisão por dias da semana, segmentado por horário e matéria com o nome do professor](../img/user-docs/user-figura-37-quadro-de-horario-preenchido.png)
+![Calendário com divisão por dias da semana, segmentado por horário e matéria com o nome do professor](/img/user-docs/user-figura-37-quadro-de-horario-preenchido.png)
 
 Ao acessar o cadastro, o usuário pode buscar por um quadro de horário existente ou criar um novo. Caso a opção selecionada seja para criar um novo, será aberto um calendário similar ao da Figura 37, porém sem os horários. Ao clicar em um dos dias da semana, será aberta uma nova janela, onde deverão ser informados o Componente curricular (disciplina), horário inicial e final e professor(a) de cada horário de aula. Este procedimento deve ser feito para todos os horários de cada dia da semana.

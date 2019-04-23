@@ -16,7 +16,7 @@ preencher com seu login de acesso.
 Após acessar o site, você deverá buscar pela opção de Exportação de dados (o 
 nome pode ser diferente).
 
-![](../img/admin/admin-figura-1.jpeg)
+![](/img/admin/admin-figura-1.jpeg)
 
 O usuário precisa ter um perfil Administrador (nível superusuário) para poder 
 visualizar a opção de Exportação.
@@ -27,7 +27,7 @@ extrair todos estes dados.
 Em alguns casos, o site do Censo Escolar pode estar indisponível, não sendo 
 possível acessar nem extrair dados, como o exemplo da mensagem abaixo:
 
-![](../img/admin/admin-figura-2.png)
+![](/img/admin/admin-figura-2.png)
 
 Neste caso você pode encaminhar um e-mail para a equipe do Censo Escolar 
 solicitando os dados. Os contatos estão listados no manual mencionado acima.

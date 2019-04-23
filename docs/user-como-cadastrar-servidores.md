@@ -12,6 +12,6 @@ sidebar_label: 17. Como Cadastrar Servidores?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um servidor, acesse o **Módulo Servidores >> Cadastros >> Servidores >> Novo**. *Após realizar o cadastro é de extrema necessidade que o servidor seja alocado, então assim que realizar o cadastro clique em **Alocar Servidor***.
 
-![Módulo Servidores >> Cadastros >> Servidores >> Novo](../img/user-docs/cadastrar_e_alocar_servidores.gif)
+![Módulo Servidores >> Cadastros >> Servidores >> Novo](/img/user-docs/cadastrar_e_alocar_servidores.gif)
 
 <p class="centerText">Animação 26 - Módulo Servidores >> Cadastros >> Servidores >> Novo.</p>
