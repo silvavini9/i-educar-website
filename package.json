@@ -1,0 +1,22 @@
+{
+  "name": "i-educar-website",
+  "version": "1.0.0",
+  "description": "_“Lançando o maior software livre educacional do Brasil!”._",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsdevigo/i-educar-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsdevigo/i-educar-website/issues"
+  },
+  "homepage": "https://github.com/rsdevigo/i-educar-website#readme"
+}
