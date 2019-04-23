@@ -1,14 +1,6 @@
-matrix:
-  include:
-  - language: node_js
-    node_js:
-    - '8'
-    if: branch = master
-    branches:
-      only:
-      - master
-    cache:
-      yarn: true
+language: node_js
+node_js:
+- 8
 addons:
   ssh_known_hosts: 200.19.32.125      
 before_install:
