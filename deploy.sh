@@ -1,5 +1,5 @@
-npm install
 cd website
+npm install
 rm -rf ./build/
 npm run build
 FileName=`date +%y_%m_%d_%H_%M_%S`;
