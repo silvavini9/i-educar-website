@@ -77,7 +77,7 @@ const siteConfig = {
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
   cname: 'ieducar.org',
-
+  cleanUrl: true,
   // Used for publishing and more
   projectName: 'i-educar-website',
   organizationName: 'portabilis',
