@@ -1,7 +1,7 @@
 ---
 id: como-cadastrar-series
 title: Como Cadastrar Séries?
-sidebar_label: 22. Como Cadastrar Séries?
+sidebar_label: Como Cadastrar Séries?
 ---
 
 > **Pré-requisitos:**

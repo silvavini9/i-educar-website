@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-funcoes
 title: Como Cadastrar Funções?
-sidebar_label: 16. Como Cadastrar Funções?
+sidebar_label: Como Cadastrar Funções?
 ---
 
 

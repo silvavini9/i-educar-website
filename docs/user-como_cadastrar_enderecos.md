@@ -1,7 +1,7 @@
 ---
 id: user-como_cadastrar_enderecos
 title: Como Cadastrar Endereços?
-sidebar_label: 6. Como Cadastrar Endereços?
+sidebar_label: Como Cadastrar Endereços?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conceito de endereçamento no i-Educar consiste no processo de identificação de dados de endereços que são essenciais para a localização de instituições e pessoas, evitando a duplicidade em sua base de dados e aumentando a confiabilidade dos relatórios gerados pelo sistema, desde que os endereços (logradouros, bairros e demais variantes) sejam consistentes. 

@@ -1,7 +1,7 @@
 ---
 id: user-como_cadastrar_um_curso
 title: Como Cadastrar um Curso?
-sidebar_label: 8. Como Cadastrar um Curso?
+sidebar_label: Como Cadastrar um Curso?
 ---
 
 >***Pré-requisitos:***

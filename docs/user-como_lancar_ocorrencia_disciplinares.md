@@ -1,7 +1,7 @@
 ---
 id: user-como_lancar_ocorrencia_disciplinares
 title: Como Lançar Ocorrências Disciplinares?
-sidebar_label: 28. Como Lançar Ocorrências Disciplinares?
+sidebar_label: Como Lançar Ocorrências Disciplinares?
 ---
 
 >**Pré-requisitos:**

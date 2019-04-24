@@ -1,7 +1,7 @@
 ---
 id: user-como-emitir-relatorios
 title: Como Emitir Relatórios?
-sidebar_label: 36. Como Emitir Relatórios?
+sidebar_label: Como Emitir Relatórios?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por meio do **Módulo Escola >> Relatórios**, uma série de relatórios (63 tipos de relatórios) podem ser gerados para o auxílio da gestão escolar, de acordo com a seguinte categorização:
