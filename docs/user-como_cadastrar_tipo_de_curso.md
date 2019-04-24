@@ -1,7 +1,7 @@
 ---
 id: user-como_cadastrar_tipo_de_curso
 title: Como Cadastrar um Tipo de Curso?
-sidebar_label: 7. Como Cadastrar um Tipo de Curso?
+sidebar_label: Como Cadastrar um Tipo de Curso?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antes dos cadastros de cursos de uma escola, é dado como pré requisito no sistema i-Educar os cadastros de Tipos de Cursos, sendo eles: **Tipos de ensino;  Tipos de habilitação; Tipos de nível ensino; Tipos de regime.**

@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-tipos-de-componentes-curriculares
 title: Como Cadastrar Tipos de Componentes Curriculares?
-sidebar_label: 11. Como Cadastrar Tipos de Componentes Curriculares?
+sidebar_label: Como Cadastrar Tipos de Componentes Curriculares?
 ---
 
 <div class="textoJustificado">

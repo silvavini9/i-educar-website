@@ -1,7 +1,7 @@
 ---
 id: user-como_acessar_i-educar
 title: Como acessar o i-Educar?
-sidebar_label: 4. Como acessar o i-Educar?
+sidebar_label: Como acessar o i-Educar?
 ---
 
 > ***Pré-requisitos:*** 

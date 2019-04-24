@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-pessoas-fisicas-ou-juridicas
 title: Como Cadastrar Pessoas Físicas ou Jurídicas?
-sidebar_label: 13. Como Cadastrar Pessoas Físicas ou Jurídicas?
+sidebar_label: Como Cadastrar Pessoas Físicas ou Jurídicas?
 ---
 
 ## Como Cadastrar Tipos de Pessoas?

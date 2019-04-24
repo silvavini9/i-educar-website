@@ -1,7 +1,7 @@
 ---
 id: user-por_onde_comecar
 title: Por onde começar?
-sidebar_label: 3. Por onde começar?
+sidebar_label: Por onde começar?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sistema i-Educar trabalha com rotinas de uso onde são estabelecidas prioridades dentro dos  cadastros, fazendo assim com que todo ele seja feito sem que nenhuma etapa seja ignorada ou esquecida no processo.

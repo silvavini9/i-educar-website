@@ -1,7 +1,7 @@
 ---
 id: como-matricular-alunos
 title: Como Matricular Alunos?
-sidebar_label: 26. Como Matricular Alunos?
+sidebar_label: Como Matricular Alunos?
 ---
 
 >**Pré-requisitos:**

@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-componentes-curriculares
 title: Como Cadastrar Componentes Curriculares?
-sidebar_label: 12. Como Cadastrar Componentes Curriculares?
+sidebar_label: Como Cadastrar Componentes Curriculares?
 ---
 
 >## Pré-requisitos:

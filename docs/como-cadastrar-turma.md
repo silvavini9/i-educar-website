@@ -1,7 +1,7 @@
 ---
 id: como-cadastrar-turma
 title: Como Cadastrar Turma?
-sidebar_label: 25. Como Cadastrar Turma?
+sidebar_label: Como Cadastrar Turma?
 ---
 
 >**Pré-requisitos:**
