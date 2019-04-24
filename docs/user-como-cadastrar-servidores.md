@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-servidores
 title: Como Cadastrar Servidores?
-sidebar_label: 17. Como Cadastrar Servidores?
+sidebar_label: Como Cadastrar Servidores?
 ---
 
 >## Pré-requisitos:

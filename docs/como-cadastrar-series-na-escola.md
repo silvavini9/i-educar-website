@@ -1,7 +1,7 @@
 ---
 id: como-cadastrar-series-na-escola
 title: Como Cadastrar Séries na Escola?
-sidebar_label: 23. Como Cadastrar Séries na Escola?
+sidebar_label: Como Cadastrar Séries na Escola?
 ---
 
 >**Pré-requisitos:**

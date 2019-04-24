@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-uma-escola
 title: Como Cadastrar uma Escola?
-sidebar_label: 10. Como Cadastrar uma Escola?
+sidebar_label: Como Cadastrar uma Escola?
 ---
 
 >## Pré-requisitos: 

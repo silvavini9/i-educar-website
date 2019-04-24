@@ -1,7 +1,7 @@
 ---
 id: como-cadastrar-um-tipo-de-turma
 title: Como Cadastrar um Tipo de Turma?
-sidebar_label: 24. Como Cadastrar um Tipo de Turma?
+sidebar_label: Como Cadastrar um Tipo de Turma?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antes dos cadastros das turmas de uma escola, é dado como pré requisito no sistema i-Educar os cadastros de **Tipos de Turmas.**

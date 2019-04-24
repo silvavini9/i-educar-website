@@ -1,7 +1,7 @@
 ---
 id: user-finalizar-ano-letivo
 title: Como Finalizar um Ano Letivo?
-sidebar_label: 35. Como Finalizar um Ano Letivo?
+sidebar_label: Como Finalizar um Ano Letivo?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O processo de finalização do ano, implica em algumas etapas de verificação.

@@ -1,7 +1,7 @@
 ---
 id: user-como-cadastrar-um-aluno
 title: Como Cadastrar um Aluno?
-sidebar_label: 14. Como Cadastrar um Aluno?
+sidebar_label: Como Cadastrar um Aluno?
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem algumas formas de realizar cadastro de alunos e essas serão apresentadas conforme segue:

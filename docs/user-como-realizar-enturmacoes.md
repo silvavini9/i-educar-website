@@ -1,7 +1,7 @@
 ---
 id : user-como-realizar-enturmacoes
 title: Como Realizar Enturmações?
-sidebar_label: 31. Como Realizar Enturmações?
+sidebar_label: Como Realizar Enturmações?
 ---
 
 <div class="justificado">
