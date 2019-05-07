@@ -12,7 +12,7 @@ sidebar_label: Como Cadastrar uma Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antes do início do uso, no ano letivo, do sistema i-Educar toda escola que for utilizá-lo deve ser cadastrada, sendo assim, antes de iniciar as matrículas, cadastros de alunos e outros, é necessário que se cadastre a Escola.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma escola, (Animação 15) acesse o **Módulo Escola >> Cadastros >> Escolas.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma escola, (Animação 19) acesse o **Módulo Escola >> Cadastros >> Escolas.**
 
 </div>
 
@@ -20,7 +20,7 @@ sidebar_label: Como Cadastrar uma Escola?
 
 <div class="divNotaCentralizadaGif"> 
 
-<p class="centerText">Animação 15 - Módulo Escola >> Cadastros >> Escolas.</p>
+<p class="centerText">Animação 18 - Módulo Escola >> Cadastros >> Escolas.</p>
 
 </div>
 
@@ -34,7 +34,7 @@ sidebar_label: Como Cadastrar uma Escola?
 
 <div class="divNotaCentralizadaGif"> 
 
-<p class="centerText">Animação 16 - Módulo Escola >> Cadastros >> Escolas >> Novo.</p>
+<p class="centerText">Animação 19 - Módulo Escola >> Cadastros >> Escolas >> Novo.</p>
 
 </div>
 
