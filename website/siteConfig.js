@@ -71,16 +71,16 @@ const siteConfig = {
   title: 'i-Educar' /* title for your website */,
   tagline: ' é um software livre que descomplica e torna mais eficaz a gestão dos processos escolares, matrículas e dados de alunos.',
   disableHeaderTitle: true,
-  url: 'http://ieducar.org' /* your website url */,
+  url: 'http://200.19.32.125:8090' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
-  cname: 'ieducar.org',
+  cname: '200.19.32.125:8090',
   cleanUrl: true,
   // Used for publishing and more
   projectName: 'i-educar-website',
-  organizationName: 'portabilis',
+  organizationName: 'ifms-dourados',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -158,10 +158,10 @@ const siteConfig = {
   gaTrackingId: 'UA-122039826-1',
   gaGtag: true,
   scripts: [
-    'js/mailchimp.js',
-    'js/map.js',
-    'js/conversao.js',
-    'js/loadFonts.js'
+    '/js/mailchimp.js',
+    '/js/map.js',
+    '/js/conversao.js',
+    '/js/loadFonts.js'
   ],
   mapsApiKey: 'AIzaSyCIThOGkNPz5Kxk1CH5on42LzEMpVLGhho',
   
