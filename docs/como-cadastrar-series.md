@@ -17,4 +17,4 @@ sidebar_label: Como Cadastrar Séries?
 
 ![Para cadastrar uma nova Série, entre no módulo Escola, depois entre em Cadastros, depois entre em Séries e cliqua em Novo](/img/treinamento-gif/cadastrar_series.gif)
 
-<p class="centerText">Animação 31 - Módulo Escola >> Cadastros >> Séries >> Novo.</p>
+<p class="centerText">Animação 26 - Módulo Escola >> Cadastros >> Séries >> Novo.</p>

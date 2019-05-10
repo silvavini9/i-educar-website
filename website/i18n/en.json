@@ -66,6 +66,10 @@
       "faq": {
         "title": "faq"
       },
+      "user-como_alocar_servidor": {
+        "title": "Como Alocar Servidor na Escola?",
+        "sidebar_label": "Como Alocar Servidor na Escola?"
+      },
       "user-analisar_notas_faltas": {
         "title": "Analisar Notas e Faltas",
         "sidebar_label": "Analisar Notas e Faltas"
