@@ -11,12 +11,12 @@ sidebar_label: Como Cadastrar Componentes Curriculares?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um componentes curriculares nada mais são do que as disciplinas que os professores irão ministrar no ano letivo.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para cadastrar um componente curricular, basta ir no **Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para cadastrar um componente curricular, basta ir no ***Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo.***
 
 ![Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo](/img/user-docs/cadastrar_componente_curricular.gif)
 
 <div class="divNotaCentralizadaGif"> 
 
-<p class="centerText">Animação 19 - Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo.</p>
+<p class="centerText">Animação 22 - Módulo Escola >> Cadastros >> Componentes Curriculares >> Novo.</p>
 
 </div> 

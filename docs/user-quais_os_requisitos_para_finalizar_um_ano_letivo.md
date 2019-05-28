@@ -18,4 +18,4 @@ sidebar_label: Quais os Requisitos para Finalizar um Ano Letivo?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esse relatório mostra as matrículas de alunos por escola, na situação escolhida nos filtros de busca do relatório, para saber se existem alunos que ainda se encontram na situação de cursando, basta colocar no campo de filtro Situação como CURSANDO. Caso o relatório seja gerado em branco significa que não existem mais alunos cursando, logo já é possível finalizar o ano letivo.
 
-<p class="bold small italic">Observação: O sistema nunca permitirá o fechamento do ano letivo enquanto a situação de todos os alunos vinculados a escola, estiverem como CURSANDO.</p>
+> <p class="bold small italic">Observação: O sistema nunca permitirá o fechamento do ano letivo enquanto a situação de todos os alunos vinculados a escola, estiverem como CURSANDO.</p>

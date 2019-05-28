@@ -15,13 +15,13 @@ sidebar_label: Como Cadastrar Tipos de Componentes Curriculares?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Áreas do Conhecimento compreendem as grandes Áreas de Ensino, como Ciências da Natureza, Ciências Humanas e outras.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de áreas do conhecimento, acesse o ***Módulo Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo.***
 
 
 ![Escola >> Cadastros >> Tipos >> Componentes curriculares >> Área do conhecimento >> Novo](/img/user-docs/cadastrar_area_conhecimento.gif)
 
 
-<p class="centerText">Animação 17 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Área do conhecimento >> Novo.</p>
+<p class="centerText">Animação 20 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Área do conhecimento >> Novo.</p>
 
 ## Tipos de dispensa.
 
@@ -32,4 +32,4 @@ sidebar_label: Como Cadastrar Tipos de Componentes Curriculares?
 ![Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo](/img/user-docs/cadastrar_tipo_dispensa.gif)
 
 
-<p class="centerText small">Animação 18 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo.</p>
+<p class="centerText small">Animação 21 - Módulo Escola >> Cadastros >> Tipos >> Componentes Curriculares >> Tipos de dispensa >> Novo.</p>

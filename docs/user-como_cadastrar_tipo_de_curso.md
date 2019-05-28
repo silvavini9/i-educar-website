@@ -8,9 +8,9 @@ sidebar_label: Como Cadastrar um Tipo de Curso?
 
 ## Tipos de ensino
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trata-se da forma com que o curso é ofertado na escola, podendo ser presencial ou a distância. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tipos de ensino, nada mais são do que a forma que o curso é ofertado na escola, sendo presencial ou a distância. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Exemplo: Em um curso de Ensino Fundamental - Anos Iniciais ofertado em escola física de ensino regular, o tipo de ensino é presencial.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Exemplo: Em um curso de Ensino Fundamental - Anos Iniciais ofertado em escola física de ensino regular, o tipo de ensino é presencial.***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento dos tipos de ensino (Animação 7), acesse o ***Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de ensino >> Novo.***
 

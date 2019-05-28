@@ -15,4 +15,4 @@ sidebar_label: Como Cadastrar um Calendário?
 
 ![Para cadastrar um novo calendário letivo entre no Módulo Escola, entre em Cadastros, entre em Novo Calendário Letivo](/img/treinamento-gif/cadastrar_calendario_letivo.gif)
 
-<p class="centerText">Animação 29 - Módulo Escola >> Cadastros >> Calendário >> Novo Calendário Letivo.</p>
+<p class="centerText">Animação 30 - Módulo Escola >> Cadastros >> Calendário >> Novo Calendário Letivo.</p>
