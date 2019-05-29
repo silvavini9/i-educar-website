@@ -14,9 +14,9 @@ sidebar_label: Como Cadastrar um Tipo de Curso?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento dos tipos de ensino (Animação 7), acesse o ***Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de ensino >> Novo.***
 
-![Em escola clique vá em cadastro depois tipo, cursos, tipos de cursos e depois clique em tipos de ensino, e clique em novo](/img/treinamento_gifs/cadastrar_tipo_ensino.gif)
+![Aciona o módulo escola, aciona cadastro depois aciona tipo, cursos, tipos de cursos e depois aciona tipos de ensino e acione o botão novo](/img/treinamento_gifs/cadastrar_tipo_ensino.gif)
 
-<p class="centerText">Animação 7 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de ensino >> Novo.</p>
+<p class="centerText">Animação 10 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de ensino >> Novo.</p>
 
 ## Tipos de habilitação
 
@@ -26,9 +26,9 @@ sidebar_label: Como Cadastrar um Tipo de Curso?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento dos tipos de habilitação (Animação 8), acesse o **Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de Habilitação >> Novo.**
 
-![no módulo de escola vá em cadastro depois em tipo, cursos, tipos de cursos e clique em tipos de habilitação e depois novo](/img/treinamento_gifs/cadastrar_tipo_habilitacao.gif)
+![Aciona o módulo escola, aciona cadastro depois aciona tipo, cursos, tipos de cursos e depois aciona tipos de habilitação e acione o botão novo](/img/treinamento_gifs/cadastrar_tipo_habilitacao.gif)
 
-<p class="centerText">Animação 8 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de habilitação >> Novo.</p>
+<p class="centerText">Animação 11 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de habilitação >> Novo.</p>
 
 ## Tipos de nível de ensino
 
@@ -38,9 +38,9 @@ sidebar_label: Como Cadastrar um Tipo de Curso?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de tipos de nível de ensino, acesse o ***Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de nível de ensino >> Novo.***
 
-![no módulo de escola vá em cadastro depois em tipo, cursos tipos de cursos e depois tipos de nível de ensino e depois novo](/img/treinamento_gifs/cadastrar_tipo_de_ensino.gif)
+![Aciona o módulo escola, aciona cadastro depois aciona tipo, cursos, tipos de cursos e depois aciona tipos de nivel de ensino e acione o botão novo](/img/treinamento_gifs/cadastrar_tipo_de_ensino.gif)
 
-<p class="centerText">Animação 9 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de nível de ensino >> Novo.</p>
+<p class="centerText">Animação 12 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de nível de ensino >> Novo.</p>
 
 ## Tipos de regime
 
@@ -50,7 +50,7 @@ sidebar_label: Como Cadastrar um Tipo de Curso?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de tipos de regime, acesse o **Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de regime >> Novo**
 
-![](/img/treinamento_gifs/cadastrar_tipo_regime.gif)
+![Aciona o módulo escola, aciona cadastro depois aciona tipo, cursos, tipos de cursos e depois aciona tipos de regime e acione o botão novo](/img/treinamento_gifs/cadastrar_tipo_regime.gif)
 
-<p class="centerText">Animação 10 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de regime >> Novo.</p>
+<p class="centerText">Animação 13 - Módulo Escola >> Cadastros >> Tipos >> Cursos >> Tipos de regime >> Novo.</p>
 

@@ -3,7 +3,7 @@ id: user-intro_manual
 title: Bem-Vindo!
 ---
 
-<img alt="Logo do i-Educar" src="/img/capa_manual.png" class="imgCapa"/> 
+<img alt="Logo do i-Educar - Representado pela ponta de um lápis apontando para cima" src="/img/capa_manual.png" class="imgCapa"/> 
 
 <div class="blockCenterText">
 

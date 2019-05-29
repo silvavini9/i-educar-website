@@ -14,6 +14,6 @@ sidebar_label: Como Cadastrar um Curso?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cadastrar cursos, então, consiste em gravar no sistema os cursos que a escola trabalha. Para realizar o cadastramento de cursos, acesse o **Módulo Escola >> Cadastros >> Cursos >> Novo.**
 
-![Em modulo de escola vá em cadastro, cursos e novo](/img/treinamento_gifs/cadastrar_curso.gif)
+![Aciona o módulo escola, aciona cadastro, cursos e depois aciona o botão novo](/img/treinamento_gifs/cadastrar_curso.gif)
 
-<p class="centerText">Animação 11 - Módulo Escola >> Cadastros >> Cursos >> Novo.</p>
+<p class="centerText">Animação 14 - Módulo Escola >> Cadastros >> Cursos >> Novo.</p>
