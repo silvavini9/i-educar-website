@@ -11,10 +11,10 @@ sidebar_label: Como Cadastrar Benefícios / Projetos de Aluno?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Escola >> Cadastros >> Tipos >> Alunos >> Tipos de benefício >> Novo.**
 
 
-![Módulo Escola >> Cadastros >> Tipos >> Alunos >> Tipos de benefício >> Novo](/img/user-docs/cadastrar_tipo_de_beneficio.gif)
+![Aciona Módulo Escola, aciona Cadastros, aciona Tipos, aciona Alunos, aciona Tipos de benefício, aciona o botão Novo](/img/user-docs/cadastrar_tipo_de_beneficio.gif)
 
 ## Como Cadastrar Projetos de Aluno?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de áreas do conhecimento, acesse o **Módulo Escola >> Cadastros >> Tipos >> Alunos >> Tipos de projetos>> Novo**.
 
-![Módulo Escola >> Cadastros >> Tipos >> Alunos >> Tipos de projetos>> Novo](/img/user-docs/cadastrar_tipo_projetos.gif)
+![Aciona Módulo Escola, aciona Cadastros, aciona Tipos, aciona Alunos, aciona Tipos de projetos depois aciona o botão Novo](/img/user-docs/cadastrar_tipo_projetos.gif)

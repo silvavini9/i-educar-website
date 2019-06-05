@@ -8,4 +8,4 @@ sidebar_label: Como Reservar Vagas?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma reserva de vagas, acesso **Módulo Escola >> Processos >> Reservas de vagas.**
 
-![gif do tópico de reserva de vagas](/img/user-docs/reservar_vagas.gif)
+![Aciona o Módulo Escola, Aciona Processos, Aciona Reservas de vagas, aciona o botão Novo](/img/user-docs/reservar_vagas.gif)

@@ -12,4 +12,4 @@ sidebar_label: Como Lançar Ocorrências Disciplinares?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem, dentro do sistema i-Educar, duas maneiras de lançar ocorrências disciplinares, acessando o ***Módulo Escola >> Cadastros >> Aluno >> Selecionar Aluno***  e registrar a ocorrência, ou ***Módulo Escola >> Lançamentos >> Ocorrências Disciplinares.***
 
-![](/img/treinamento_gifs/cadastrar_ocorrencia_disciplinar.gif)
+![Aciona Módulo Escola, Aciona Lançamento, Aciona Ocorrências Disciplinares](/img/treinamento_gifs/cadastrar_ocorrencia_disciplinar.gif)
