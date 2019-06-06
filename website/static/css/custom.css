@@ -225,9 +225,6 @@
     text-align: center;
     justify-content: center;
   }
-  .post{
-    margin-top: 50px;
-  }
   .projectLogo {
     display: flex;
     justify-content: center;
@@ -334,7 +331,9 @@
     height: 80px;
     margin: 0px;
   }
-
+  .post{
+    margin-top: 50px;
+  }
   .navigationSlider nav.slidingNav {
     top: 28px;
   }
