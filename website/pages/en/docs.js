@@ -43,6 +43,8 @@ Button.defaultProps = {
   target: '_self',
 };
 
+
+
 const BlockHeader = props => (
   <Container
     padding={['bottom', 'top']}
@@ -67,11 +69,6 @@ const Block = props => (
     </span>
   </Container>
 );
-
-
-
-
-
 
 
 
