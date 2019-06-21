@@ -14,7 +14,7 @@ title: Apresentação
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para entrar em contato com a equipe de desenvolvimento do sistema, envie uma mensagem para o e-mail ieducar@ifms.edu.br, aos cuidados do Coordenador do Projeto, Evandro Luís Souza Falleiros, professor do Ensino Básico, Técnico e Tecnológico do Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - Campus Dourados.
 Esperamos que sua escola possa utilizar o sistema e contribuir cada dia mais com a qualidade da educação em nosso país.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boa leitura e excelente trabalho!
+Boa leitura e excelente trabalho!
 
 Evando Luiz Souza Falleiros
 
