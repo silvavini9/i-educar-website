@@ -13,6 +13,6 @@ sidebar_label: Como acessar o i-Educar?
 
 3\) Clique no botão **Entrar**.
 
-![Entra no link https://novaandradina.ieducar.com.br e inserido seus dados e clica no botão de entrar](/img/treinamento_gifs/login_i_educar.gif)
+![Entra no link https://novaandradina.ieducar.com.br e insira seus dados e acione o botão de entrar](/img/treinamento_gifs/login_i_educar.gif)
 
 <p class="centerText bold small">Animação 1 - Acesso ao i-Educar no navegador.</p>

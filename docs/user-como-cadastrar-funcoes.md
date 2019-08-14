@@ -10,6 +10,6 @@ sidebar_label: Como Cadastrar Funções?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma função, acesse o ***Módulo Servidores >> Cadastros >> Tipos >> Funções >> Novo***.
 
 
-![Módulo Servidores >> Cadastros >> Tipos >> Funções >> Novo](/img/user-docs/cadastrar_funcoes_servidores.gif)
+![Aciona o módulo servidores, aciona cadastros, tipos, funções e depois aciona o botão novo](/img/user-docs/cadastrar_funcoes_servidores.gif)
 
 <p class="centerText">Animação 23 -  Módulo Servidores >> Cadastros >> Tipos >> Funções >> Novo.</p>

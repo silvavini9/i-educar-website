@@ -13,16 +13,16 @@ sidebar_label: Como Cadastrar Tipos de Matrículas?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um tipo de abandono, acesse o ***Módulo Escola >> Cadastros >> Tipos >> Matrículas >> Tipos de abandono >> Novo.***
 
-![Acione escola, cadastro, matricula, tipos de abandono, novo](/img/treinamento_gifs/cadastrar_tipo_abandono.gif)
+![Aciona o módulo escola, aciona cadastro, aciona matricula, aciona tipos de abandono depois aciona o botão novo](/img/treinamento_gifs/cadastrar_tipo_abandono.gif)
 
 ## Tipos de ocorrências disciplinares
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um tipo de ocorrência disciplinar, acesse o **Módulo Escola >> Cadastros >> Tipos >> Matrículas >> Tipos de ocorrências disciplinares >> Novo.**
 
-![Acione escola, cadastro, matricula, tipos de ocorrências disciplinares, novo](/img/treinamento_gifs/cadastrar_tipo_abandono.gif)
+![Aciona o módulo escola, aciona cadastro, aciona matricula, aciona tipos de ocorrências disciplinares, novo](/img/treinamento_gifs/cadastrar_tipo_abandono.gif)
 
 ## Tipos de transferência
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um tipo de transferência, acesse o **Módulo Escola >> Cadastros >> Tipos >> Matrículas >> Tipos de transferência>> Novo.**
 
-![Acione escola, cadastro, matricula, tipos de transferência, novo](/img/treinamento_gifs/cadastrar_tipo_transferencia.gif)
+![Acionao módulo escola, aciona cadastro, aciona matricula, aciona tipos de transferência, novo](/img/treinamento_gifs/cadastrar_tipo_transferencia.gif)

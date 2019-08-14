@@ -12,7 +12,7 @@ sidebar_label: Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de etapas, (Animação 15) acesse o ***Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de etapas >> Novo.***
 
-![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de etapas e depois novo](/img/treinamento_gifs/cadastrar_tipo_de_etapas.gif)
+![Acione o módulo escola aciona cadastro aciona tipo, escolas, e aciona tipos de etapas e depois aciona o botão novo preenche os dados depois aciona o botão salvar](/img/treinamento_gifs/cadastrar_tipo_de_etapas.gif)
 
 <p class="centerText">Animação 15 - Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de etapas >> Novo.</p>
 
@@ -24,7 +24,7 @@ sidebar_label: Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma rede de ensino (Animação 16), acesse o **Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de localização >> Novo.**
 
-![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de localização e depois novo](/img/treinamento_gifs/cadastrar_tipos_de_localizacao.gif)
+![Aciona o módulo escola aciona cadastro depois tipo, escolas, e aciona tipos de localização e depois aciona o botão novo](/img/treinamento_gifs/cadastrar_tipos_de_localizacao.gif)
 
 <p class="centerText">Animação 16 - Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de localização.</p>
 
@@ -34,6 +34,6 @@ sidebar_label: Como Cadastrar Tipos de Escola?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de uma rede de ensino (Animação 17), acesse o ***Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de Rede de Ensino >> Novo.***
 
-![no módulo de escola vá em cadastro depois em tipo, escolas, e clique em tipos de rede de ensino e depois novo](/img/treinamento_gifs/cadastrar_tipos_de_rede_de_ensino.gif)
+![Aciona o módulo escola aciona cadastro depois aciona tipo, escolas, e aciona tipos de rede de ensino e depois aciona o botão novo](/img/treinamento_gifs/cadastrar_tipos_de_rede_de_ensino.gif)
 
 <p class="centerText">Animação 17 - Módulo Escola >> Cadastros >> Tipos >> Escolas >> Tipos de Rede de Ensino >> Novo.</p>

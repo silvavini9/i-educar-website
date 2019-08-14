@@ -19,20 +19,19 @@ sidebar_label: Como Realizar Enturmações?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para enturmar um aluno, acesse o **Módulo Escola >> Cadastros >> Aluno >> Selecionar Aluno >> Visualizar Matrícula >> Enturmar.**
 
-![Animação 38 - Módulo Escola >> Cadastros >> Aluno >> Selecionar Aluno >> Visualizar Matrícula >> Enturmar.](/img/user-docs/enturmacao_aluno.gif)
+![Aciona o Módulo Escola, aciona Cadastros, Aciona aluno, inseri nome do aluno e depois aciona o botão Buscar, seleciona o aluno buscado depois aciona visualizar, depois aciona o botão enturmar, seleciona a turma, depois aciona o botão Enturmar na turma selecionada depois aciona o botão Ok](/img/user-docs/enturmacao_aluno.gif)
 
-
+<p class="centerText"> Animação 38 - Módulo Escola >> Cadastros >> Aluno >> Selecionar Aluno >> Visualizar Matrícula >> Enturmar.</p>
 
 ## Como Realizar Enturmação em Lote?
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O processo de enturmação em lote consiste em levar uma turma de um ano letivo para outro, re-enturmando os alunos que nela estavam para a turma do ano seguinte, podendo selecionar vários alunos de uma só vez (lote).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o processo de enturmação em lote, acesse o **Módulo Escola >> Movimentações >> Enturmação em lote >> Buscar Turma >> Selecionar Alunos >> Copiar Enturmações.**
 
-![Animação 39 - Módulo Escola >> Movimentações >> Enturmação em lote >> Buscar Turma >> Selecionar Alunos >> Copiar Enturmações.](/img/user-docs/enturmacoes_em_lote.gif)
+![Aciona o Módulo Escola, aciona Movimentações, aciona enturmação em lote](/img/user-docs/enturmacoes_em_lote.gif)
 
-
+<p class="centerText">Animação 39 - Módulo Escola >> Movimentações >> Enturmação em lote >> Buscar Turma >> Selecionar Alunos >> Copiar Enturmações.</p>
 
 ## Como Remanejar Enturmação de um Aluno?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o remanejamento da enturmação de um aluno, acesse o **Módulo Escola >> Cadastros Alunos >> Selecionar Aluno >> Visualizar Matrícula.**
@@ -52,6 +51,6 @@ sidebar_label: Como Realizar Enturmações?
 
  **Passo 6  →**  Selecionar a opção **enturmar na turma selecionada.**
 
-![Aqui vai uma gif sobre enturmação de aluno](/img/user-docs/enturmacao_aluno.gif)
+![Aciona o Módulo Escola, aciona Cadastros, Aciona aluno, inseri nome do aluno e depois aciona o botão Buscar, seleciona o aluno buscado depois aciona visualizar, depois aciona o botão enturmar, seleciona a turma, depois aciona o botão Enturmar na turma selecionada depois aciona o botão Ok](/img/user-docs/enturmacao_aluno.gif)
 
 </div>

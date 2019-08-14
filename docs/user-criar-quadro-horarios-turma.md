@@ -12,7 +12,7 @@ sidebar_label: Como Criar um Quadro de Horários da Turma?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar o cadastramento de um quadro de horários de uma turma, acesse o **Módulo Servidor >> Cadastros >> Quadros de Horários >> Selecionar o botão “Novo Quadro de Horários.**
 
-![Animação 37 - Módulo Servidor >> Cadastros >> Quadros de Horários >> Selecionar o botão “Novo Quadro de Horários.](/img/user-docs/criar_quadro_de_horarios.gif)
+![Aciona o Módulo Servidores, aciona Cadastros, aciona Qaudros de Horários, aciona o Botão  Novo Quadro de Horários, Inseri as informações e aciona o botão Salvar](/img/user-docs/criar_quadro_de_horarios.gif)
 
 <p class="centerText">Animação 14 - Módulo Servidor >> Cadastros >> Quadros de Horários >> Selecionar o botão “Novo Quadro de Horários.
 </p>

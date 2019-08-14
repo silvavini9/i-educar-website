@@ -8,13 +8,14 @@ sidebar_label: Como Gerar Históricos Escolares?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para a realizar o processamento de um histórico escolar acesse o **Módulo Escola >> Processos >> Históricos Escolares**.
 
-![Animação 43 - Módulo Escola >> Processos >> Históricos Escolares.](/img/user-docs/processar_historico_escolar.gif)
+![Aciona o Módulo Escola, aciona Processos, aciona Histórico Escolares, insere as informações aciona o botão buscar, insere as informações](/img/user-docs/processar_historico_escolar.gif)
 
+<p class="centerText">Animação 43 - Módulo Escola >> Processos >> Históricos Escolares.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na parte de processos dos históricos é possível selecionar toda uma turma, logo o processamento em lote de históricos é plausível dentro do sistema, porém a geração do relatório de histórico somente é feita de forma individual. Após realizado o processamento do Histórico Escolar, pode-se gerar o relatório de histórico.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para realizar a geração de um histórico escolar, acesse o **Módulo Escola >> Documentos >> Históricos >> Histórico Escolar.**
 
-![Animação 44 - Módulo Escola >> Documentos >> Históricos >> Histórico Escolar.](/img/user-docs/gerar_historico_escolar_processado.gif)
+![Aciona o Módulo Escola, aciona Documentos, aciona Históricos, acioona Histórico Escolar, Insere as informaçõesm, Aciona o botão Editar](/img/user-docs/gerar_historico_escolar_processado.gif)
 
 <p class="centerText">Animação 44 - Módulo Escola >> Documentos >> Históricos >> Histórico Escolar.</p>

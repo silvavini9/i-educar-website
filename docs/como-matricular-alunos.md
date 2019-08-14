@@ -11,6 +11,6 @@ sidebar_label: Como Matricular Alunos?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Há duas maneiras de realizar a matrícula de um aluno. A primeira delas é logo após o cadastro do aluno, onde aparecerá o botão **matricular aluno** abaixo dos dados cadastrais. Outra forma é acessar o **Módulo Escola >> Alunos >> Selecionar Aluno >> Nova Matrícula.**
 
-![Para matricular um aluno, entre no Módulo Escola, entre em Aluno, entre em Selecionar aluno, depois entre em Nova Matrícula](/img/treinamento-gif/matricular_aluno.gif)
+![Aciona o Módulo Escola, aciona Cadastros, aciona Alunos, Inseri o nome do aluno depois aciona o botão Buscar, depois aciona o aluno do resultado da busca e depois mostra o botão Nova Matricula ](/img/treinamento-gif/matricular_aluno.gif)
 
-<p class="centerText">Animação 35 - Módulo Escola >> Alunos >> Selecionar Aluno >> Nova Matrícula.</p>
+<p class="centerText">Animação 36 - Módulo Escola >> Alunos >> Selecionar Aluno >> Nova Matrícula.</p>

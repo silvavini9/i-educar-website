@@ -8,7 +8,9 @@ sidebar_label: Como Cadastrar Tipos De Pessoas e Cadastrar Pessoas Físicas ou J
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No módulo pessoas é possível cadastrar novos tipos de característica seguindo caminho **Pessoas >> Cadastros >> Tipos >> (cor/raça; deficiência; religião)**, dessa forma pode-se acessar as características de tipos já cadastradas ou cadastrar uma nova, utilizando o botão **“Novo**”.
 
-![Pessoas >> Cadastros >> Tipos >> (cor/raça; deficiência; religião)](/img/user-docs/cadastrar_tipos.gif)
+![Aciona o módulo pessoas e acione cadastros,acione tipos e mostra todos os tipos de cadastros do módulo pessoa](/img/user-docs/cadastrar_tipos.gif)
+
+<p class="centerText">Animação 7 - Pessoas >> Cadastros >> Tipos >> (cor/raça; deficiência; religião)</p>
 
 ## Como Cadastrar Pessoas Físicas ou Jurídicas?
 
@@ -19,14 +21,16 @@ sidebar_label: Como Cadastrar Tipos De Pessoas e Cadastrar Pessoas Físicas ou J
 
 <p class="centerText">Pessoa Física</p>
 
-![Pessoas >> Cadastros >> Pessoa Física >> Novo](/img/user-docs/cadastrar_pessoa_fisica.gif)
+![Aciona o módulo pessoas e aciona cadastro e aciona pessoa fisica e aciona o botão novo](/img/user-docs/cadastrar_pessoa_fisica.gif)
 
-<p class="centerText">Animação 20 - Pessoas >> Cadastros >> Pessoa Física >> Novo</p>
+<p class="centerText">Animação 8 - Pessoas >> Cadastros >> Pessoa Física >> Novo</p>
 
 > **Dica:** *Para sair do autopreenchimento do Google Chrome (campos que, eventualmente, já ficam preenchidos por uso anterior), aperte a teclas ESC do teclado. Isso fará com que a lista 
 de sugestões do navegador desapareça.* 
 
-![Pessoas >> Cadastros >> Pessoa Jurídica >> Novo](/img/user-docs/cadastrar_pessoa_juridica.gif)
+![Aciona o módulo pessoas e aciona cadastro e aciona pessoa jurídica e aciona o botão novo](/img/user-docs/cadastrar_pessoa_juridica.gif)
+
+<p class="centerText">Animação 9 - Pessoas >> Cadastros >> Pessoa Jurídica >> Novo</p>
 
 > **Dica:** *Para sair do autopreenchimento do Google Chrome (campos que, eventualmente, já ficam preenchidos por uso anterior), aperte a teclas ESC do teclado. Isso fará com que a lista de sugestões do navegador desapareça.*
 
