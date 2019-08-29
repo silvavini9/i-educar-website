@@ -87,7 +87,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {href: '/docs/user-conhecendo-sistema.html', label :'Conteúdo Principal'},
+    {href: '/docs/user-conhecendo-sistema.html#acesso-ao-sistema', label :'Conteúdo Principal'},
     {page: 'index', label: 'Home'},
     {href: '/index.html#quemusa', label: 'Quem Usa?'},
     {blog: true, label: 'Blog'},
