@@ -1,7 +1,7 @@
 .imageAplication{
   border: 1px solid white;
-  border-radius: 5px;
-  width: 1068px;
-  height: 578px;
+  border-radius: 7px;
+  width: 60vw;
+  height: auto;
   margin-top: 20px;
 }

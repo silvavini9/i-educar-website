@@ -1,6 +1,8 @@
 var cores = [
-      {nome:'blue', cor:'#2693ff',tipo:'primary'},{nome:'purple',cor:'#8100f7',tipo:'primary'},
-      {nome:'clay',cor:'#999999',tipo:'primary'},{nome:'green',cor:'#3ee4cf',tipo:'secundary'}
+      {nome:'blue', cor:'#2693ff',tipo:'primary'},
+      {nome:'purple',cor:'#8100f7',tipo:'primary'},
+      {nome:'clay',cor:'#999999',tipo:'primary'},
+      {nome:'green',cor:'#3ee4cf',tipo:'secundary'}
 ];
 
 cores.forEach(function(cor){
@@ -27,7 +29,7 @@ cores.forEach(function(cor){
       document.querySelector('#heximadecimal').innerHTML =  cor.cor;
       setInterval(function(){
         document.querySelector("#modal").style.display = "none";
-      },3000);
+      },3500);
     });
 
     clipboard.on('error', function(e) {

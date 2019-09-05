@@ -36,6 +36,7 @@ main{
   background: #f9f9f9;
   flex: 4;
   height: 100vh;
+  width: 22vw;
   position: fixed;
 }
 
@@ -73,13 +74,19 @@ main {
 
 .mainContent {
   position: absolute;
-  left: 317px;
+  left: 22vw;
 }
 
 .subContentDiv{
    display: flex;
-   height: 922px;
+   flex-direction: row;
+   flex: 1;
+   padding-bottom: 5%;
    padding-left: var(--arejamento-esquerda);
+}
+
+.subContentDiv p{
+  padding-right: 10%;
 }
 
 #ieducar {
@@ -122,11 +129,12 @@ main {
 .mainSectionNav {
   flex: 1;
   margin-left: 50px;
+
 }
 
 .mainSectionNav nav {
   border-left: 2px solid #e0dede;
-  padding-left: 27px;
+  padding-left: 15px;
   height: 248px;
   margin-top: var(--arejamento-topo-pagina);
   padding-top: 14px;
@@ -206,16 +214,4 @@ main {
   max-width: 25px;
   max-height: 18px;
   margin-right: 32px;
-}
-.tiposlogostipos{
-  display: flex;
-  align-items: center;
-}
-.tiposlogostipos div{
-  margin-right:131px;
-  margin-top: 48px;
-}
-.tiposlogostipos img{
-  max-width:253px;
-  max-height: 253px;
 }

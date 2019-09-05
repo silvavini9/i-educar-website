@@ -1,0 +1,18 @@
+.tiposlogostipos{
+    display: flex;
+    align-items: center;
+  }
+  .tiposlogostipos div{
+    margin-right: 120px;
+    margin-top: 48px;
+  }
+  
+  .tiposlogostipos div:last-child{
+    margin-right: 0;
+  }
+  
+  .tiposlogostipos img{
+    max-width:253px;
+    max-height: 253px;
+  }
+  
